@@ -4,7 +4,7 @@ title: T4Framework
 subtitle: 액션 에디터 (Action Editor)
 googlefonts: ["Noto Serif KR"]
 ---
-<img src="https://tech4labs.com/img/Folders2.png" width="18px" height="18px"> [Home](https://tech4labs.com/index) > 액션 에디터 (Action Editor)
+<img src="https://t4framework.com/img/Folders2.png" width="18px" height="18px"> [Home](https://t4framework.com/index) > 액션 에디터 (Action Editor)
 
 <style> .embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 1%; left: 0%; width: 99%; height: 99%; } </style>
 <div class='embed-container'><iframe src='https://www.youtube.com/embed/Z-DLnRLcHmI' frameborder='0' allowfullscreen></iframe></div>

@@ -3,7 +3,7 @@ layout: page
 title: T4Framework
 subtitle: Milestone 6 (2020.03.23 ~ 2020.06.26)
 ---
-<img src="https://tech4labs.com/img/Folders2.png" width="18px" height="18px"> [Home](https://tech4labs.com/index) > [Milestones](https://tech4labs.com/T4Framework_Milestones/) > Milestone 6
+<img src="https://t4framework.com/img/Folders2.png" width="18px" height="18px"> [Home](https://t4framework.com/index) > [Milestones](https://t4framework.com/T4Framework_Milestones/) > Milestone 6
 
 ### A. 목표
 
@@ -85,11 +85,11 @@ subtitle: Milestone 6 (2020.03.23 ~ 2020.06.26)
   
 ### E. 마일스톤
 
-- [Milestone8](https://tech4labs.com/T4Framework_Milestone8_Achieved/) (2020.10.21 ~ 2020.12.18)
-- [Milestone7](https://tech4labs.com/T4Framework_Milestone7_Achieved/) (2020.07.06 ~ 2020.10.08)
+- [Milestone8](https://t4framework.com/T4Framework_Milestone8_Achieved/) (2020.10.21 ~ 2020.12.18)
+- [Milestone7](https://t4framework.com/T4Framework_Milestone7_Achieved/) (2020.07.06 ~ 2020.10.08)
 - Milestone6 (2020.03.23 ~ 2020.06.26) <=
-- [Milestone5](https://tech4labs.com/T4Framework_Milestone5_Achieved/) (2020.01.06 ~ 2020.03.13)
-- [Milestone4](https://tech4labs.com/T4Framework_Milestone4_Achieved/) (2019.10.07 ~ 2019.12.20)
-- [Milestone3](https://tech4labs.com/T4Framework_Milestone3_Achieved/) (2019.08.05 ~ 2019.10.04)
-- [Milestone2](https://tech4labs.com/T4Framework_Milestone2_Achieved/) (2019.05.06 ~ 2019.07.31)
-- [Milestone1](https://tech4labs.com/T4Framework_Milestone1_Achieved/) (2019.01.19 ~ 2019.04.19)
+- [Milestone5](https://t4framework.com/T4Framework_Milestone5_Achieved/) (2020.01.06 ~ 2020.03.13)
+- [Milestone4](https://t4framework.com/T4Framework_Milestone4_Achieved/) (2019.10.07 ~ 2019.12.20)
+- [Milestone3](https://t4framework.com/T4Framework_Milestone3_Achieved/) (2019.08.05 ~ 2019.10.04)
+- [Milestone2](https://t4framework.com/T4Framework_Milestone2_Achieved/) (2019.05.06 ~ 2019.07.31)
+- [Milestone1](https://t4framework.com/T4Framework_Milestone1_Achieved/) (2019.01.19 ~ 2019.04.19)

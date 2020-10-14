@@ -1,0 +1,51 @@
+﻿<footer>
+  <div class="container beautiful-jekyll-footer">
+    <div class="row">
+        <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+            <ul class="list-inline text-center footer-links">
+                {%- for link in site.social-network-links -%}
+                {%- assign curkey = link[0] -%}
+                {%- assign element = site.data.SocialNetworks[curkey] -%}
+                <li>
+                    {%- if curkey == 'rss' -%}
+                    <a href="{{ '/feed.xml' | relative_url }}" title="{{ element.name }}">
+                        {%- elsif curkey == 'yelp' -%}
+                        <a href="https://{{ site.social-network-links[curkey] }}.yelp.com" title="{{ element.name }}">
+                            {%- else -%}
+                            <a href="{{element.baseURL}}{{ site.social-network-links[curkey] }}" title="{{ element.name }}">
+                                {%- endif -%}
+                                <span class="fa-stack fa-lg" aria-hidden="true">
+                                    <i class="fa fa-circle fa-stack-2x"></i>
+                                    <i class="fa {{ element.icon }} fa-stack-1x fa-inverse"></i>
+                                </span>
+                                <span class="sr-only">{{ element.name }}</span>
+                            </a>
+                </li>
+                {%- endfor -%}
+            </ul>
+
+            <p></p>
+            <p></p>
+            <p></p>
+
+            <p class="theme-by text-muted">
+                경기도 성남시 수정구 창업로 54, 판교 제2테크노벨리 LH기업성장센터 9층(글로벌게임허브센터 게임벤처 4.0)
+            </p>
+            <p class="theme-by text-muted">
+                Copyright 2019-2020 TECH4 Labs. All Rights Reserved.
+            </p>
+
+            <p></p>
+            <!-- Please don't remove this, keep my open source work credited :) -->
+            <!--
+    <right>
+        <p class="theme-by text-muted">
+            Theme by
+            <a href="https://deanattali.com/beautiful-jekyll/">beautiful-jekyll</a>
+        </p>
+    </right>
+    -->
+        </div>
+    </div>
+  </div>
+</footer>

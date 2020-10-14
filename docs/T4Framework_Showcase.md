@@ -1,0 +1,28 @@
+﻿---
+layout: page
+title: T4Framework
+subtitle: The Most Powerful MMO Action RPG Framework for UE4
+---
+<img src="https://tech4labs.com/img/Folders2.png" width="18px" height="18px"> [Home](https://tech4labs.com/index) > Showcase
+
+<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 3%; left: 5%; width: 92%; height: 94%; }</style>
+
+### 1. 소개
+
+- 언리얼 엔진의 무료 또는 유료 에셋을 T4Framework 에서 사용하는 방법을 소개합니다.
+- 게임 개발 초보자도 쉽게 따라 할 수 있도록 게임 제작을 위한 A-Z 까지 모두 준비되어 있습니다.
+- 복잡하고 어려운 기술적인 문제를 처음부터 고민하지 마시고, 그냥 따라만 해보시면 됩니다.
+
+### 2. Skeleton Crew Bundle
+
+- 다운로드 : 언리얼 마켓플레이스 (유료 에셋)
+  - <a href="https://www.unrealengine.com/marketplace/en-US/item/65602a5f110141a6a0c93fcd87af7e1d" target="_blank">https://www.unrealengine.com/marketplace/...</a>
+
+<div class='embed-container'><iframe src='https://www.youtube.com/embed/JwbYzkNLJ1k' frameborder='0' allowfullscreen></iframe></div>
+<center><b>#1 Character Setup : 캐릭터 기본 메시 및 애니메이션 설정 (Crossbowman)</b></center>
+
+<div class='embed-container'><iframe src='https://www.youtube.com/embed/miBji2uYbSc' frameborder='0' allowfullscreen></iframe></div>
+<center><b>#2 Weapon Equipment : 아이템 드랍 메시 및 캐릭터 무기 장착</b></center>
+
+<div class='embed-container'><iframe src='https://www.youtube.com/embed/5LU0IPZKmbA' frameborder='0' allowfullscreen></iframe></div>
+<center><b>#3 Projectile Attack : 스킬 애니메이션과 발사체 공격 설정</b></center>

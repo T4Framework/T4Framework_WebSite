@@ -18,11 +18,11 @@ subtitle: The Most Powerful MMO Action RPG Framework for UE4
 - 다운로드 : 언리얼 마켓플레이스 (유료 에셋)
   - <a href="https://www.unrealengine.com/marketplace/en-US/item/65602a5f110141a6a0c93fcd87af7e1d" target="_blank">https://www.unrealengine.com/marketplace/...</a>
 
-<div class='embed-container'><iframe src='https://www.youtube.com/embed/JwbYzkNLJ1k' frameborder='0' allowfullscreen></iframe></div>
+<div class='embed-container'><iframe src='https://www.youtube.com/embed/MCfZAzuThAk' frameborder='0' allowfullscreen></iframe></div>
 <center><b>#1 Character Setup : 캐릭터 기본 메시 및 애니메이션 설정 (Crossbowman)</b></center>
 
-<div class='embed-container'><iframe src='https://www.youtube.com/embed/miBji2uYbSc' frameborder='0' allowfullscreen></iframe></div>
+<div class='embed-container'><iframe src='https://www.youtube.com/embed/QUjCAyhHibU' frameborder='0' allowfullscreen></iframe></div>
 <center><b>#2 Weapon Equipment : 아이템 드랍 메시 및 캐릭터 무기 장착</b></center>
 
-<div class='embed-container'><iframe src='https://www.youtube.com/embed/5LU0IPZKmbA' frameborder='0' allowfullscreen></iframe></div>
+<div class='embed-container'><iframe src='https://www.youtube.com/embed/iQpA5hsqqwc' frameborder='0' allowfullscreen></iframe></div>
 <center><b>#3 Projectile Attack : 스킬 애니메이션과 발사체 공격 설정</b></center>

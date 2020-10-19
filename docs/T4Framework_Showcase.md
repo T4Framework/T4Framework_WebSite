@@ -15,9 +15,6 @@ subtitle: The Most Powerful MMO Action RPG Framework for UE4
 
 ### 2. Skeleton Crew Bundle
 
-- 다운로드 : 언리얼 마켓플레이스 (유료 에셋)
-  - <a href="https://www.unrealengine.com/marketplace/en-US/item/65602a5f110141a6a0c93fcd87af7e1d" target="_blank">https://www.unrealengine.com/marketplace/...</a>
-
 <div class='embed-container'><iframe src='https://www.youtube.com/embed/MCfZAzuThAk' frameborder='0' allowfullscreen></iframe></div>
 <center><b>#1 Character Setup : 캐릭터 기본 메시 및 애니메이션 설정 (Crossbowman)</b></center>
 
@@ -26,3 +23,6 @@ subtitle: The Most Powerful MMO Action RPG Framework for UE4
 
 <div class='embed-container'><iframe src='https://www.youtube.com/embed/iQpA5hsqqwc' frameborder='0' allowfullscreen></iframe></div>
 <center><b>#3 Projectile Attack : 스킬 애니메이션과 발사체 공격 설정</b></center>
+
+<div class='embed-container'><iframe src='https://www.youtube.com/embed/i5v-t6q3mFw' frameborder='0' allowfullscreen></iframe></div>
+<center><b>#4 Enemy AI Attack : NPC 등록 및 3가지 발사체 스킬 설정</b></center>

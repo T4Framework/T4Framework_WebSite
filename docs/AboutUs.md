@@ -23,11 +23,6 @@ use-site-title: false
 - Tech4Labs (Lead Programmer)
   - <img src="https://t4framework.com/img/Noh.png" width="100px" height="100px">
   - Architect, Programmer
-  - Career
-    - 2005 - 2007 : IMC Games
-    - 2007 - 2019 : NCSOFT
-    - 2020.2 : Awarded "Epic MegaGrant" from Epic Games Inc
-    - 2020.6 : Chosen for KOCCA(Korea Creative Content Agency) "GAME VENTURE 4.0"
 
 ### D. Address
 

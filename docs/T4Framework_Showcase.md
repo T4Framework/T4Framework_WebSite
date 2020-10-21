@@ -31,5 +31,5 @@ subtitle: The Most Powerful MMO Action RPG Framework for UE4
 <div class='embed-container'><iframe src='https://www.youtube.com/embed/i5v-t6q3mFw' frameborder='0' allowfullscreen></iframe></div>
 <center><b>#4 Enemy AI Attack : NPC 등록 및 3가지 발사체 스킬 설정</b></center>
 
-<div class='embed-container'><iframe src='https://www.youtube.com/embed/iTIJm9XPU4DM' frameborder='0' allowfullscreen></iframe></div>
+<div class='embed-container'><iframe src='https://www.youtube.com/embed/TIJm9XPU4DM' frameborder='0' allowfullscreen></iframe></div>
 <center><b>#5 Hit Reaction and Death : NPC 히트 리액션 및 사망 연출 설정</b></center>

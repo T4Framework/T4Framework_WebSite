@@ -15,6 +15,10 @@ subtitle: The Most Powerful MMO Action RPG Framework for UE4
 
 ### 2. Skeleton Crew Bundle
 
+- 언리얼 및 유니티 마켓플레이스에서 판매 중인 Bitgem 에서 제작한 에셋 번들입니다.
+- 저렴한 가격에 동일 콘셉트의 다양한 에셋을 제공하고 있어 가벼운 RPG 제작에 접합합니다.
+- 캐릭터 설정부터 간단한 게임 제작까지 완료하는 전체 과정을 양상으로 보실 수 있습니다.
+
 <div class='embed-container'><iframe src='https://www.youtube.com/embed/MCfZAzuThAk' frameborder='0' allowfullscreen></iframe></div>
 <center><b>#1 Character Setup : 캐릭터 기본 메시 및 애니메이션 설정 (Crossbowman)</b></center>
 
@@ -26,3 +30,6 @@ subtitle: The Most Powerful MMO Action RPG Framework for UE4
 
 <div class='embed-container'><iframe src='https://www.youtube.com/embed/i5v-t6q3mFw' frameborder='0' allowfullscreen></iframe></div>
 <center><b>#4 Enemy AI Attack : NPC 등록 및 3가지 발사체 스킬 설정</b></center>
+
+<div class='embed-container'><iframe src='https://www.youtube.com/embed/iTIJm9XPU4DM' frameborder='0' allowfullscreen></iframe></div>
+<center><b>#5 Hit Reaction and Death : NPC 히트 리액션 및 사망 연출 설정</b></center>

@@ -36,3 +36,6 @@ subtitle: The Most Powerful MMO Action RPG Framework for UE4
 
 <div class='embed-container'><iframe src='https://www.youtube.com/embed/uMA97Sov5lQ' frameborder='0' allowfullscreen></iframe></div>
 <center><b>#6 Map and NPC Spawn : 기본적인 맵 설정과 NPC 스폰 배치</b></center>
+
+<div class='embed-container'><iframe src='https://www.youtube.com/embed/ZBqJbzkHYp4' frameborder='0' allowfullscreen></iframe></div>
+<center><b>#7 NPC Waypoints : NPC Waypoints 설정 (e.g. 순찰, 등장 연출)</b></center>

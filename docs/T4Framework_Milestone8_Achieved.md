@@ -15,13 +15,12 @@ subtitle: Milestone 8 (2020.10.21 ~ 2020.12.18)
 ### B. 현황
 
 - 2020.10.21 ~ 2020.12.18
-  - Issue 7 Open, 0 Closed
+  - Issue 6 Open, 2 Closed
 
 ### C. 이슈
 
 - Open
-  - #173 : GameDB 내 Text 편집 기능 개선 (Supporting Localization)
-  - #172 : Multiple GameDB 세트를 관리 할 수 있는 기능 추가
+  - #174 : Entity Editor, UI 처리용 Thumbnail 생성 기능 추가
   - #171 : Action Editor, No Simulation 시 ActionPack Play 처리 개선
   - #165 : Movement Component, Collision Mesh 위에서의 이동 처리
   - #162 : PropEntity 의 Composite Component 기능 구현
@@ -29,7 +28,8 @@ subtitle: Milestone 8 (2020.10.21 ~ 2020.12.18)
   - #157 : AT4WorldActor Pooling 추가
     
 - Closed
-  - N/A
+  - #173 : GameDB 내 Text 편집 기능 개선 (Supporting Localization) / 2020.10.25
+  - #172 : Multiple GameDB 세트를 관리 할 수 있는 기능 추가 / 2020.10.23
 
 ### D. 결과
 

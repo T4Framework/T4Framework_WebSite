@@ -7,17 +7,20 @@ subtitle: Milestone 8 (2020.10.21 ~ 2020.12.18)
 
 ### A. 목표
 
-- T4Framework 폴리싱 및 최적화 (v1.2)
-  - N/A
+- 네트워크 플레이 버전 v1.2 만들기
+  - v1.0 독립형 RPG 개발 버전 개선
+  - 소규모 네트워크 RPG 플레이 버전 개발
+    - UE4 Dedicated Server 기반
 
 ### B. 현황
 
 - 2020.10.21 ~ 2020.12.18
-  - Issue 6 Open, 0 Closed
+  - Issue 7 Open, 0 Closed
 
 ### C. 이슈
 
 - Open
+  - #173 : GameDB 내 Text 편집 기능 개선 (Supporting Localization)
   - #172 : Multiple GameDB 세트를 관리 할 수 있는 기능 추가
   - #171 : Action Editor, No Simulation 시 ActionPack Play 처리 개선
   - #165 : Movement Component, Collision Mesh 위에서의 이동 처리

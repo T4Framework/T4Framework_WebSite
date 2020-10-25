@@ -8,9 +8,9 @@ subtitle: The Most Powerful MMO Action RPG Framework for UE4
 ### A. 일정 (Plan)
 
 - 2020
-  - 4/4 : 정식 서비스 버전 v1.0 만들기
-    - 독립형 RPG 개발 가능 수준 개발
-    - 구독(Subscription) 라이선스 시작
+  - 4/4 : 네트워크 플레이 버전 v1.2 만들기
+    - v1.0 독립형 RPG 개발 버전 개선
+    - 소규모 네트워크 RPG 플레이 버전 개발 (UE4 Dedicated Server)
 - 2021
   - 2/4 : v2.0 버전 
     - 중급 RPG 개발 가능 수준 개발
@@ -24,7 +24,7 @@ subtitle: The Most Powerful MMO Action RPG Framework for UE4
   - 목표 : T4Framework 폴리싱 및 최적화 (v1.2)
 - Milestones
   - [Milestone 7](https://t4framework.com/T4Framework_Milestone7_Achieved/) (2020.07.06 ~ 2020.10.08, Issue 24 Closed)
-    - 튜토리얼 제작 및 정식 서비스 버전 1.0 만들기
+    - 튜토리얼 제작 및 정식 서비스 버전 v1.0 만들기
   - [Milestone 6](https://t4framework.com/T4Framework_Milestone6_Achieved/) (2020.03.23 ~ 2020.06.26, Issue 24 Closed)
     - 데모 프로젝트 제작을 위한 기반 작업
   - [Milestone 5](https://t4framework.com/T4Framework_Milestone5_Achieved/) (2020.01.06 ~ 2020.03.13, Issue 19 Closed)

@@ -20,7 +20,7 @@ subtitle: Milestone 8 (2020.10.21 ~ 2020.12.18)
 ### C. 이슈
 
 - Open
-  - #174 : Entity Editor, UI 처리용 Thumbnail 생성 기능 추가
+  - #174 : Entity Editor, UI 처리용 Portrait 생성 기능 추가
   - #171 : Action Editor, No Simulation 시 ActionPack Play 처리 개선
   - #165 : Movement Component, Collision Mesh 위에서의 이동 처리
   - #162 : PropEntity 의 Composite Component 기능 구현

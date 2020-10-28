@@ -41,4 +41,4 @@ subtitle: The Most Powerful MMO Action RPG Framework for UE4
 <center><b>#7 NPC Waypoints : NPC Waypoints 설정 (e.g. 순찰, 등장 연출)</b></center>
 
 <div class='embed-container'><iframe src='https://www.youtube.com/embed/_QVuQxRrbjs' frameborder='0' allowfullscreen></iframe></div>
-<center><b>#8 Quest and Dialogue : 비주얼 그래프 기반 퀘스트와 NPC 대화 설정</b></center>
+<center><b>#8 Quest and Dialogue : 간단한 퀘스트와 NPC 대화 설정</b></center>

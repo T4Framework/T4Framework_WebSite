@@ -42,3 +42,6 @@ subtitle: The Most Powerful MMO Action RPG Framework for UE4
 
 <div class='embed-container'><iframe src='https://www.youtube.com/embed/_QVuQxRrbjs' frameborder='0' allowfullscreen></iframe></div>
 <center><b>#8 Quest and Dialogue : 간단한 퀘스트와 NPC 대화 설정</b></center>
+
+<div class='embed-container'><iframe src='https://www.youtube.com/embed/Cgz1S6ZHa9I' frameborder='0' allowfullscreen></iframe></div>
+<center><b>#9 Combat System : 캐릭터 별 특수 스킬 및 효과 설정</b></center>

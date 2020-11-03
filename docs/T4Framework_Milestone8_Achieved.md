@@ -15,11 +15,12 @@ subtitle: Milestone 8 (2020.10.21 ~ 2020.12.18)
 ### B. 현황
 
 - 2020.10.21 ~ 2020.12.18
-  - Issue 7 Open, 4 Closed
+  - Issue 8 Open, 4 Closed
 
 ### C. 이슈
 
 - Open
+  - #178 : NPC AI (Apporach, Ability Skill, Aggro, Formation) 개선
   - #177 : 게임 별 프로젝트 세팅을 Override 할 수 있는 기능 지원
   - #176 : 게임 플레이어 사망 후 복구 프로세스 처리
   - #175 : M7 레거시 코드 리팩토링

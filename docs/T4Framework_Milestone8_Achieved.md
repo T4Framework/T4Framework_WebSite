@@ -15,14 +15,13 @@ subtitle: Milestone 8 (2020.10.21 ~ 2020.12.18)
 ### B. 현황
 
 - 2020.10.21 ~ 2020.12.18
-  - Issue 8 Open, 4 Closed
+  - Issue 7 Open, 5 Closed
 
 ### C. 이슈
 
 - Open
   - #178 : NPC AI (Apporach, Ability Skill, Aggro, Formation) 개선
   - #177 : 게임 별 프로젝트 세팅을 Override 할 수 있는 기능 지원
-  - #176 : 게임 플레이어 사망 후 복구 프로세스 처리
   - #175 : M7 레거시 코드 리팩토링
   - #165 : Movement Component, Collision Mesh 위에서의 이동 처리
   - #162 : PropEntity 의 Composite Component 기능 구현
@@ -30,6 +29,7 @@ subtitle: Milestone 8 (2020.10.21 ~ 2020.12.18)
   - #157 : AT4WorldActor Pooling 추가
     
 - Closed
+  - #176 : 게임 플레이어 사망 후 복구 프로세스 처리 / 2020.11.04
   - #171 : Action Editor, No Simulation 시 ActionPack Play 처리 개선 / 2020.11.01
   - #174 : Entity Editor, UI 처리용 Portrait 생성 기능 추가 / 2020.10.30
   - #173 : GameDB 내 Text 편집 기능 개선 (Supporting Localization) / 2020.10.25
@@ -37,7 +37,7 @@ subtitle: Milestone 8 (2020.10.21 ~ 2020.12.18)
 
 ### D. 결과
 
-- N/A
+- [Tutorials (Skeleton Crew Bundle)](https://t4framework.com/T4Framework_Tutorials){: target="_blank" } 
   
 ### E. 마일스톤
 

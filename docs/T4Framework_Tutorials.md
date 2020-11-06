@@ -45,3 +45,6 @@ subtitle: The Most Powerful MMO Action RPG Framework for UE4
 
 <div class='embed-container'><iframe src='https://www.youtube.com/embed/Cgz1S6ZHa9I' frameborder='0' allowfullscreen></iframe></div>
 <center><b>#9 Combat System : 캐릭터 별 특수 스킬 및 효과 설정</b></center>
+
+<div class='embed-container'><iframe src='https://www.youtube.com/embed/tmnTDLV4LSg' frameborder='0' allowfullscreen></iframe></div>
+<center><b>#10 Game Settings : 게임 설정 및 클라이언트 실행</b></center>

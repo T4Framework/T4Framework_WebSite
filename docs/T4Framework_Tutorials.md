@@ -48,3 +48,6 @@ subtitle: The Most Powerful MMO Action RPG Framework for UE4
 
 <div class='embed-container'><iframe src='https://www.youtube.com/embed/tmnTDLV4LSg' frameborder='0' allowfullscreen></iframe></div>
 <center><b>#10 Game Settings : 게임 설정 및 클라이언트 실행</b></center>
+
+<div class='embed-container'><iframe src='https://www.youtube.com/embed/NOZhEhQf3hI' frameborder='0' allowfullscreen></iframe></div>
+<center><b>#11 One more thing : 편의 기능 및 시간 변화(Time of Day) 소개</b></center>

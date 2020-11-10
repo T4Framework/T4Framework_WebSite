@@ -6,7 +6,7 @@ subtitle: 유연한 프레임워크 (Flexible Framework)
 <img src="https://t4framework.com/img/Folders2.png" width="18px" height="18px"> [Home](https://t4framework.com/index) > [Features](https://t4framework.com/T4Framework_Features) > 유연한 프레임워크 (Flexible Framework)
 
 <style> .embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 1%; left: 0%; width: 99%; height: 99%; } </style>
-<div class='embed-container'><iframe src='https://www.youtube.com/embed/OqDk2P-oLSA' frameborder='0' allowfullscreen></iframe></div>
+<div class='embed-container'><iframe src='https://www.youtube.com/embed/HOpy-Y1SFLM' frameborder='0' allowfullscreen></iframe></div>
 <hr>
 #### 1. UE4 Dedicated Server 지원
 - 개별 Actor, Component 단위의 Replication 기능은 사용하지 않음
@@ -20,7 +20,11 @@ subtitle: 유연한 프레임워크 (Flexible Framework)
 - 대규모 멀티플레이어 온라인 환경을 고려해 모든 캐릭터 이동은 새롭게 설계된 Movement Component 사용
 - 편리한 존 기반 환경 설정과 Dedicated Server 에서의 동기화를 지원합니다.
 
-#### 2. 워크플로 소개
+#### 2. Multiple Games 및 Studio 지원
+- 동일한 리소스 자원으로 다른 장르 또는 짧은 미니 게임 제작 지원
+- 완전히 분리된 콘텐츠 데이터 및 제작 환경 제공
+
+#### 3. 워크플로 소개
 - 모바일 및 VR (Virtual Reality) 구현을 위한 기반 기능 지원
 - 손쉬운 게임 모드 설정 및 사용과 리플레이 시스템과의 연동 지원
 - 클라이언트 또는 툴에서의 게임 플레이를 녹화하여 재생할 수 있는 Playback 기능

@@ -19,7 +19,7 @@ subtitle: The Most Powerful MMO Action RPG Framework for UE4
 ### C. Download
 
 - [GitHub/Tech4Labs/MakeYourStory](https://github.com/Tech4Labs/MakeYourStory)
-  - 언리얼 엔진과 T4Framework 로 동작하는 개방형 RPG 게임 개발 플랫폼입니다.
+  - 언리얼 엔진과 T4Framework 로 구현된 개방형 RPG 게임 개발 플랫폼입니다.
 - [GitHub/Tech4Labs/T4Framework](https://github.com/Tech4Labs/T4Framework) (Private)
   - T4Framework 소스코드와 개발 이슈 등의 개발자 페이지에 접근하실 수 있습니다.
 

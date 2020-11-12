@@ -15,11 +15,12 @@ subtitle: Milestone 8 (2020.10.21 ~ 2020.12.18)
 ### B. 현황
 
 - 2020.10.21 ~ 2020.12.18
-  - Issue 8 Open, 6 Closed
+  - Issue 9 Open, 6 Closed
 
 ### C. 이슈
 
 - Open
+  - #181 : QuestFlow 의 DialogueTalk Task 에 카메라 LookAt 지원
   - #180 : StatDB Editor 의 Undo 실행 시 발생하는 크래시 수정
   - #179 : Game Platform 서비스를 위한 배포 프로세스 만들기
   - #177 : 게임 별 프로젝트 세팅을 Override 할 수 있는 기능 지원

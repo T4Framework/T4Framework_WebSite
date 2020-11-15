@@ -15,14 +15,13 @@ subtitle: Milestone 8 (2020.10.21 ~ 2020.12.18)
 ### B. 현황
 
 - 2020.10.21 ~ 2020.12.18
-  - Issue 9 Open, 8 Closed
+  - Issue 8 Open, 10 Closed
 
 ### C. 이슈
 
 - Open
-  - #183 : 콘텐츠 에디터에서 맵 사용 중 PIE 실행 시 간헐적인 행 문제 수정
+  - #184 : 스폰 NPC 를 통한 퀘스트 활성화 기능 지원
   - #182 : 캐릭터 로딩전 애니메이션 플레이 동작 처리
-  - #181 : QuestFlow 의 DialogueTalk Task 에 카메라 LookAt 지원
   - #180 : StatDB Editor 의 Undo 실행 시 발생하는 크래시 수정
   - #175 : M7 레거시 코드 리팩토링
   - #165 : Movement Component, Collision Mesh 위에서의 이동 처리
@@ -31,6 +30,8 @@ subtitle: Milestone 8 (2020.10.21 ~ 2020.12.18)
   - #157 : AT4WorldActor Pooling 추가
     
 - Closed
+  - #181 : QuestFlow 의 DialogueTalk Task 에 카메라 LookAt 지원 / 2020.11.15
+  - #183 : 콘텐츠 에디터에서 맵 사용 중 PIE 실행 시 간헐적인 행 문제 수정 / 2020.11.14
   - #179 : Game Platform 서비스를 위한 배포 프로세스 만들기 / 2020.11.13
   - #177 : 게임 별 프로젝트 세팅을 Override 할 수 있는 기능 지원 / 2020.11.12
   - #178 : NPC AI (Apporach, Ability Skill, Aggro) 개선 / 2020.11.10

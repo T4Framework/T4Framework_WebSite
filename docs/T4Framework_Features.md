@@ -34,7 +34,7 @@ subtitle: The Most Powerful MMO Action RPG Framework for UE4
 
 ### 5. 콘텐츠 에디터 (Content Editor)
 
-<div class='embed-container'><iframe src='https://www.youtube.com/embed/Q7PUdEImIAo' frameborder='0' allowfullscreen></iframe></div>
+<div class='embed-container'><iframe src='https://www.youtube.com/embed/al08HbYBico' frameborder='0' allowfullscreen></iframe></div>
 - 게임 콘텐츠 제작을 위한 게임 디자인 제작 툴입니다. 
   - [자세히 알아보기](https://t4framework.com/T4Framework_Features_ContentEditor)
 

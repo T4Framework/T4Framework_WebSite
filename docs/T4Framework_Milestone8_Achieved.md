@@ -44,6 +44,8 @@ subtitle: Milestone 8 (2020.10.21 ~ 2020.12.18)
 
 ### D. 결과
 
+- Development clip #88 (2020.11.16)
+  - [Dialogue Camera Settings](https://youtu.be/al08HbYBico){: target="_blank" } 
 - Development clip #87 (2020.11.10)
   - [Multiple Short Games & Studio Prototyping](https://youtu.be/HOpy-Y1SFLM){: target="_blank" } 
 - Tutorials #1 ~ #11 (2020.10.14 ~ 2020.11.10)

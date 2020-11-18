@@ -15,12 +15,11 @@ subtitle: Milestone 8 (2020.10.21 ~ 2020.12.18)
 ### B. 현황
 
 - 2020.10.21 ~ 2020.12.18
-  - Issue 9 Open, 10 Closed
+  - Issue 8 Open, 11 Closed
 
 ### C. 이슈
 
 - Open
-  - #185 : TPS(Third Person Shooter) 전용 카메라 추가
   - #184 : 스폰 NPC 를 통한 퀘스트 활성화 기능 지원
   - #182 : 캐릭터 로딩전 애니메이션 플레이 동작 처리
   - #180 : StatDB Editor 의 Undo 실행 시 발생하는 크래시 수정
@@ -31,6 +30,7 @@ subtitle: Milestone 8 (2020.10.21 ~ 2020.12.18)
   - #157 : AT4WorldActor Pooling 추가
     
 - Closed
+  - #185 : TPS(Third Person Shooter) 전용 카메라 추가 / 2020.11.19
   - #181 : QuestFlow 의 DialogueTalk Task 에 카메라 LookAt 지원 / 2020.11.15
   - #183 : 콘텐츠 에디터에서 맵 사용 중 PIE 실행 시 간헐적인 행 문제 수정 / 2020.11.14
   - #179 : Game Platform 서비스를 위한 배포 프로세스 만들기 / 2020.11.13
@@ -44,8 +44,10 @@ subtitle: Milestone 8 (2020.10.21 ~ 2020.12.18)
 
 ### D. 결과
 
+- Development clip #89 (2020.11.19)
+  - [TPS Camera & Control Mode Settings](https://youtu.be/6rDruFJubmY){: target="_blank" }
 - Development clip #88 (2020.11.16)
-  - [Dialogue Camera Settings](https://youtu.be/al08HbYBico){: target="_blank" } 
+  - [Dialogue Camera Settings](https://youtu.be/al08HbYBico){: target="_blank" }
 - Development clip #87 (2020.11.10)
   - [Multiple Short Games & Studio Prototyping](https://youtu.be/HOpy-Y1SFLM){: target="_blank" } 
 - Tutorials #1 ~ #11 (2020.10.14 ~ 2020.11.10)

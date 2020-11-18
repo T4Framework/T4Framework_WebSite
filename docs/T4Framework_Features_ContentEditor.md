@@ -20,6 +20,7 @@ subtitle: 콘텐츠 에디터 (Content Editor)
   - NPC AI Waypoint 및 Patrol 설정 및 편집 기능 지원
   - Dynamic Environment Zone 을 활용한 TimeOfDay 및 Weather 지원
 - 인게임 플레이와 동일한 전투 테스트 지원
+  - 게임 컨트롤 및 카메라 세팅 지원
 - DataTable Column 간의 하이퍼링크 지원
   - 링크 오류를 자동으로 검출하여 데이터 무결성 지원
 - 다양한 월드와 콘텐츠 스폰을 동시에 편집, 테스트 지원

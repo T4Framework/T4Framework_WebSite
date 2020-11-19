@@ -15,17 +15,17 @@ subtitle: The Most Powerful MMO Action RPG Framework for UE4
 
 ### 2. 준비
 
-- Skeleton Crew 프로젝트 다운로드
+- 'Skeleton Crew' Project Download
   - [GitHub/Tech4Labs/MakeYourStory](https://github.com/Tech4Labs/MakeYourStory)
     - /Content/T4Tutorials/Step1_SkeletonCrew/Project/Tutorial_Step1_SkeletonCrewProject
-- 필수 에셋
+- Required Asset
   - [Character] Skeleton Crew Bundle
-    - https://www.unrealengine.com/marketplace/en-US/product/skeleton-crew-bundle
-  - [Character] Paragon: Sparrow (FREE)
-    - https://www.unrealengine.com/marketplace/en-US/product/paragon-sparrow
-- 권장 에셋
+    - [unrealengine.com/marketplace/product/skeleton-crew-bundle](https://www.unrealengine.com/marketplace/en-US/product/skeleton-crew-bundle)
+  - [FX] Paragon: Sparrow (FREE)
+    - [unrealengine.com/marketplace/product/paragon-sparrow](https://www.unrealengine.com/marketplace/en-US/product/paragon-sparrow)
+- Optional Asset
   - [Map] Fantasy and Medieval Architecture Kit
-    - https://www.unrealengine.com/marketplace/en-US/product/fantasy-and-medieval-artchitecture-kit
+    - [unrealengine.com/marketplace/product/fantasy-and-medieval-artchitecture-kit](https://www.unrealengine.com/marketplace/en-US/product/fantasy-and-medieval-artchitecture-kit)
 
 ### 3. 제작과정
 

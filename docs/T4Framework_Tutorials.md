@@ -13,13 +13,21 @@ subtitle: The Most Powerful MMO Action RPG Framework for UE4
 - 게임 개발 초보자도 쉽게 따라 할 수 있도록 게임 제작을 위한 A-Z 까지 모두 준비되어 있습니다.
 - 복잡하고 어려운 기술적인 문제를 처음부터 고민하지 마시고, 그냥 따라만 해보시면 됩니다.
 
-### 2. Skeleton Crew Bundle
+### 2. 준비
 
-- 언리얼 및 유니티 마켓플레이스에서 판매 중인 Bitgem 에서 제작한 에셋 번들입니다.
-- 저렴한 가격에 동일 콘셉트의 다양한 에셋을 제공하고 있어 가벼운 RPG 제작에 접합합니다.
-- 캐릭터 설정부터 간단한 게임 제작까지 완료하는 전체 과정을 보실 수 있습니다.
-- 튜토리얼에서 사용된 툴셋은 아래 경로에서 다운로드하실 수 있습니다.
+- Skeleton Crew 프로젝트 다운로드
   - [GitHub/Tech4Labs/MakeYourStory](https://github.com/Tech4Labs/MakeYourStory)
+    - /Content/T4Tutorials/Step1_SkeletonCrew/Project/Tutorial_Step1_SkeletonCrewProject
+- 필수 에셋
+  - [Character] Skeleton Crew Bundle
+    - https://www.unrealengine.com/marketplace/en-US/product/skeleton-crew-bundle
+  - [Character] Paragon: Sparrow (FREE)
+    - https://www.unrealengine.com/marketplace/en-US/product/paragon-sparrow
+- 권장 에셋
+  - [Map] Fantasy and Medieval Architecture Kit
+    - https://www.unrealengine.com/marketplace/en-US/product/fantasy-and-medieval-artchitecture-kit
+
+### 3. 제작과정
 
 <div class='embed-container'><iframe src='https://www.youtube.com/embed/MCfZAzuThAk' frameborder='0' allowfullscreen></iframe></div>
 <center><b>#1 Character Setup : 캐릭터 기본 메시 및 애니메이션 설정 (Crossbowman)</b></center>

@@ -15,11 +15,12 @@ subtitle: Milestone 8 (2020.10.21 ~ 2020.12.18)
 ### B. 현황
 
 - 2020.10.21 ~ 2020.12.18
-  - Issue 8 Open, 11 Closed
+  - Issue 9 Open, 11 Closed
 
 ### C. 이슈
 
 - Open
+  - #186 : World Composition 을 사용하지 않고 SubLevel 을 사용하는 맵 오류
   - #184 : 스폰 NPC 를 통한 퀘스트 활성화 기능 지원
   - #182 : 캐릭터 로딩전 애니메이션 플레이 동작 처리
   - #180 : StatDB Editor 의 Undo 실행 시 발생하는 크래시 수정

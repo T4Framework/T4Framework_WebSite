@@ -15,12 +15,13 @@ subtitle: Milestone 8 (2020.10.21 ~ 2020.12.18)
 ### B. 현황
 
 - 2020.10.21 ~ 2020.12.18
-  - Issue 9 Open, 11 Closed
+  - Issue 10 Open, 12 Closed
 
 ### C. 이슈
 
 - Open
-  - #186 : World Composition 을 사용하지 않고 SubLevel 을 사용하는 맵 오류
+  - #188 : Entity 별 시스템 Audio 에셋 설정 기능 추가
+  - #187 : Zombie World 데모 프로젝트 제작
   - #184 : 스폰 NPC 를 통한 퀘스트 활성화 기능 지원
   - #182 : 캐릭터 로딩전 애니메이션 플레이 동작 처리
   - #180 : StatDB Editor 의 Undo 실행 시 발생하는 크래시 수정
@@ -31,6 +32,7 @@ subtitle: Milestone 8 (2020.10.21 ~ 2020.12.18)
   - #157 : AT4WorldActor Pooling 추가
     
 - Closed
+  - #186 : World Composition 을 사용하지 않고 SubLevel 을 사용하는 맵 오류 / 2020.11.20
   - #185 : TPS(Third Person Shooter) 전용 카메라 추가 / 2020.11.19
   - #181 : QuestFlow 의 DialogueTalk Task 에 카메라 LookAt 지원 / 2020.11.15
   - #183 : 콘텐츠 에디터에서 맵 사용 중 PIE 실행 시 간헐적인 행 문제 수정 / 2020.11.14

@@ -47,6 +47,8 @@ subtitle: Milestone 8 (2020.10.21 ~ 2020.12.18)
 
 ### D. 결과
 
+- Development clip #90 (2020.11.22)
+  - [TPS(Third Person Shooter) Demo Project](https://youtu.be/JlByN57UBUY){: target="_blank" }
 - Development clip #89 (2020.11.19)
   - [TPS Camera & Control Mode Settings](https://youtu.be/6rDruFJubmY){: target="_blank" }
 - Development clip #88 (2020.11.16)

@@ -15,16 +15,13 @@ subtitle: Milestone 8 (2020.10.21 ~ 2020.12.18)
 ### B. 현황
 
 - 2020.10.21 ~ 2020.12.18
-  - Issue 10 Open, 12 Closed
+  - Issue 7 Open, 15 Closed
 
 ### C. 이슈
 
 - Open
-  - #188 : Entity 별 시스템 Audio 에셋 설정 기능 추가
-  - #187 : Zombie World 데모 프로젝트 제작
   - #184 : 스폰 NPC 를 통한 퀘스트 활성화 기능 지원
   - #182 : 캐릭터 로딩전 애니메이션 플레이 동작 처리
-  - #180 : StatDB Editor 의 Undo 실행 시 발생하는 크래시 수정
   - #175 : M7 레거시 코드 리팩토링
   - #165 : Movement Component, Collision Mesh 위에서의 이동 처리
   - #162 : PropEntity 의 Composite Component 기능 구현
@@ -32,6 +29,9 @@ subtitle: Milestone 8 (2020.10.21 ~ 2020.12.18)
   - #157 : AT4WorldActor Pooling 추가
     
 - Closed
+  - #187 : Zombie World 데모 프로젝트 제작 / 2020.11.23
+  - #180 : StatDB Editor 의 Undo 실행 시 발생하는 크래시 수정 / 2020.11.23
+  - #188 : Entity 별 시스템 Audio 에셋 설정 기능 추가 / 2020.11.23
   - #186 : World Composition 을 사용하지 않고 SubLevel 을 사용하는 맵 오류 / 2020.11.20
   - #185 : TPS(Third Person Shooter) 전용 카메라 추가 / 2020.11.19
   - #181 : QuestFlow 의 DialogueTalk Task 에 카메라 LookAt 지원 / 2020.11.15

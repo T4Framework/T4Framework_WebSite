@@ -27,8 +27,9 @@ subtitle: The Most Powerful MMO Action RPG Framework for UE4
   - [Map] Fantasy and Medieval Architecture Kit
     - [unrealengine.com/marketplace/product/fantasy-and-medieval-artchitecture-kit](https://www.unrealengine.com/marketplace/en-US/product/fantasy-and-medieval-artchitecture-kit)
 
-### 3. 제작과정
+### 3. 과정
 
+<center>[참고] 모든 영상에는 한글 자막이 포함되어 있습니다. 자막을 켜주세요!<center><br>
 <div class='embed-container'><iframe src='https://www.youtube.com/embed/MCfZAzuThAk' frameborder='0' allowfullscreen></iframe></div>
 <center><b>#1 Character Setup : 캐릭터 기본 메시 및 애니메이션 설정 (Crossbowman)</b></center>
 

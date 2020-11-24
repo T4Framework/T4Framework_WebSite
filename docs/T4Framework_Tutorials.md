@@ -18,14 +18,14 @@ subtitle: The Most Powerful MMO Action RPG Framework for UE4
 - 'Skeleton Crew' Project Download
   - [GitHub/Tech4Labs/MakeYourStory](https://github.com/Tech4Labs/MakeYourStory)
     - /Content/T4Tutorials/Step1_SkeletonCrew/Project/Tutorial_Step1_SkeletonCrewProject
-  - Required Asset
-    - [Character] Skeleton Crew Bundle
-      - [unrealengine.com/marketplace/product/skeleton-crew-bundle](https://www.unrealengine.com/marketplace/en-US/product/skeleton-crew-bundle)
-    - [FX] Paragon: Sparrow (FREE)
-      - [unrealengine.com/marketplace/product/paragon-sparrow](https://www.unrealengine.com/marketplace/en-US/product/paragon-sparrow)
-  - Optional Asset
-    - [Map] Fantasy and Medieval Architecture Kit
-      - [unrealengine.com/marketplace/product/fantasy-and-medieval-artchitecture-kit](https://www.unrealengine.com/marketplace/en-US/product/fantasy-and-medieval-artchitecture-kit)
+- Required Asset
+  - [Character] Skeleton Crew Bundle
+    - [unrealengine.com/marketplace/product/skeleton-crew-bundle](https://www.unrealengine.com/marketplace/en-US/product/skeleton-crew-bundle)
+  - [FX] Paragon: Sparrow (FREE)
+    - [unrealengine.com/marketplace/product/paragon-sparrow](https://www.unrealengine.com/marketplace/en-US/product/paragon-sparrow)
+- Optional Asset
+  - [Map] Fantasy and Medieval Architecture Kit
+    - [unrealengine.com/marketplace/product/fantasy-and-medieval-artchitecture-kit](https://www.unrealengine.com/marketplace/en-US/product/fantasy-and-medieval-artchitecture-kit)
 
 ### 3. 과정
 

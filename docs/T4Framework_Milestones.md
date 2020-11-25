@@ -40,13 +40,6 @@ subtitle: The Most Powerful MMO Action RPG Framework for UE4
 
 ### C. 백로그 (Backlog)
  
-- **데모 제작**
-  - 전투 위주의 프로토타입 프로젝트
-    - T4Framework 의 툴셋 적극 활용
-    - 필요한 기능을 빠르게 추가하며 개발 진행
-  - Android 디바이스로 빠르게 론칭
-    - 제작 및 서비스 프로세스 준비
-
 - **머트리얼**
   - 플랫폼 별 머트리얼 제작 및 가이드라인
   - 피부, 헤어 머트리얼
@@ -80,10 +73,6 @@ subtitle: The Most Powerful MMO Action RPG Framework for UE4
   - 프랍 프리팹 툴 제작
   - 레벨 에디터 편집 편의 기능 개발
   - 월드 생성 자동화 툴 제작 
-
-- **콘텐츠**
-  - 다이얼로그 제작 툴 제작
-  - NPC AI 와 배치 자동화
 
 - **애셋 관리 및 검증 툴 개발**
   - 애셋 오류 검증 자동화 툴 제작

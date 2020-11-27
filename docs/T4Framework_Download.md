@@ -25,7 +25,8 @@ subtitle: The Most Powerful MMO Action RPG Framework for UE4
 
 ### D. Community
 
-- [Naver Cafe/cafe.naver.com/t4framework](https://cafe.naver.com/t4framework)
+- [Naver Cafe](https://cafe.naver.com/t4framework)
+  - 네이버 공식 카페입니다.
 
 ### E. License
 

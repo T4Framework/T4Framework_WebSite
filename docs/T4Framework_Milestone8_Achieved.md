@@ -15,12 +15,12 @@ subtitle: Milestone 8 (2020.10.21 ~ 2020.12.18)
 ### B. 현황
 
 - 2020.10.21 ~ 2020.12.18
-  - Issue 9 Open, 15 Closed
+  - Issue 9 Open, 16 Closed
 
 ### C. 이슈
 
 - Open
-  - #190 : 게임 프로젝트 간 GameDB 복제 기능 추가
+  - #191 : 게임 모드 추가 후 깨진 Dedicated Server 기능 복구
   - #189 : 캐릭터 간 충돌 시 효과(Effect) 전달 처리 추가
   - #184 : 스폰 NPC 를 통한 퀘스트 활성화 기능 지원
   - #182 : 캐릭터 로딩전 애니메이션 플레이 동작 처리
@@ -31,6 +31,7 @@ subtitle: Milestone 8 (2020.10.21 ~ 2020.12.18)
   - #157 : AT4WorldActor Pooling 추가
     
 - Closed
+  - #189 : 캐릭터 간 충돌 시 효과(Effect) 전달 처리 추가 / 2020.12.01
   - #187 : Zombie World 데모 프로젝트 제작 / 2020.11.23
   - #180 : StatDB Editor 의 Undo 실행 시 발생하는 크래시 수정 / 2020.11.23
   - #188 : Entity 별 시스템 Audio 에셋 설정 기능 추가 / 2020.11.23

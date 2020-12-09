@@ -50,7 +50,7 @@ subtitle: Milestone 8 (2020.10.21 ~ 2020.12.18)
 ### D. 결과
 
 - Development clip #92 (2020.12.09)
-  - [Dialogue Tree](https://youtu.be/dUe98CH5g-E){: target="_blank" }
+  - [NPC Quest and Dialogue Tree](https://youtu.be/dUe98CH5g-E){: target="_blank" }
 - Development clip #91 (2020.12.03)
   - [TPS Demo Project (Bodycheck!!)](https://youtu.be/HVAyQlWCG-s){: target="_blank" }
 - Development clip #90 (2020.11.22)

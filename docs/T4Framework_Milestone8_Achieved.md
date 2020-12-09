@@ -15,13 +15,12 @@ subtitle: Milestone 8 (2020.10.21 ~ 2020.12.18)
 ### B. 현황
 
 - 2020.10.21 ~ 2020.12.18
-  - Issue 9 Open, 16 Closed
+  - Issue 8 Open, 17 Closed
 
 ### C. 이슈
 
 - Open
   - #191 : 게임 모드 추가 후 깨진 Dedicated Server 기능 복구
-  - #184 : 스폰 NPC 를 통한 퀘스트 활성화 기능 지원
   - #182 : 캐릭터 로딩전 애니메이션 플레이 동작 처리
   - #175 : M7 레거시 코드 리팩토링
   - #165 : Movement Component, Collision Mesh 위에서의 이동 처리
@@ -30,6 +29,7 @@ subtitle: Milestone 8 (2020.10.21 ~ 2020.12.18)
   - #157 : AT4WorldActor Pooling 추가
     
 - Closed
+  - #184 : 스폰 NPC 를 통한 퀘스트 활성화 기능 지원 / 2020.12.09
   - #189 : 캐릭터 간 충돌 시 효과(Effect) 전달 처리 추가 / 2020.12.01
   - #187 : Zombie World 데모 프로젝트 제작 / 2020.11.23
   - #180 : StatDB Editor 의 Undo 실행 시 발생하는 크래시 수정 / 2020.11.23
@@ -49,7 +49,9 @@ subtitle: Milestone 8 (2020.10.21 ~ 2020.12.18)
 
 ### D. 결과
 
-- Development clip #90 (2020.11.22)
+- Development clip #92 (2020.12.09)
+  - [Dialogue Tree](https://youtu.be/dUe98CH5g-E){: target="_blank" }
+- Development clip #91 (2020.12.03)
   - [TPS Demo Project (Bodycheck!!)](https://youtu.be/HVAyQlWCG-s){: target="_blank" }
 - Development clip #90 (2020.11.22)
   - [TPS(Third Person Shooter) Demo Project](https://youtu.be/JlByN57UBUY){: target="_blank" }

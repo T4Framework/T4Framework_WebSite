@@ -15,12 +15,14 @@ subtitle: Milestone 8 (2020.10.21 ~ 2020.12.18)
 ### B. 현황
 
 - 2020.10.21 ~ 2020.12.18
-  - Issue 8 Open, 17 Closed
+  - Issue 9 Open, 17 Closed
 
 ### C. 이슈
 
 - Open
+  - #192 : 게임 카메라 댐핑(Damping) 처리 추가
   - #191 : 게임 모드 추가 후 깨진 Dedicated Server 기능 복구
+  - #190 : 게임 프로젝트 간 GameDB 복제 기능 추가
   - #182 : 캐릭터 로딩전 애니메이션 플레이 동작 처리
   - #175 : M7 레거시 코드 리팩토링
   - #165 : Movement Component, Collision Mesh 위에서의 이동 처리

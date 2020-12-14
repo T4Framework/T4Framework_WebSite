@@ -15,12 +15,12 @@ subtitle: Milestone 8 (2020.10.21 ~ 2020.12.18)
 ### B. 현황
 
 - 2020.10.21 ~ 2020.12.18
-  - Issue 9 Open, 17 Closed
+  - Issue 9 Open, 18 Closed
 
 ### C. 이슈
 
 - Open
-  - #192 : 게임 카메라 댐핑(Damping) 처리 추가
+  - #192 : 캐릭터 무기 스왑 시스템 추가 (Equip, Mount)
   - #191 : 게임 모드 추가 후 깨진 Dedicated Server 기능 복구
   - #190 : 게임 프로젝트 간 GameDB 복제 기능 추가
   - #182 : 캐릭터 로딩전 애니메이션 플레이 동작 처리
@@ -31,6 +31,7 @@ subtitle: Milestone 8 (2020.10.21 ~ 2020.12.18)
   - #157 : AT4WorldActor Pooling 추가
     
 - Closed
+  - #192 : 게임 카메라 댐핑(Damping) 처리 추가 / 2020.12.14
   - #184 : 스폰 NPC 를 통한 퀘스트 활성화 기능 지원 / 2020.12.09
   - #189 : 캐릭터 간 충돌 시 효과(Effect) 전달 처리 추가 / 2020.12.01
   - #187 : Zombie World 데모 프로젝트 제작 / 2020.11.23

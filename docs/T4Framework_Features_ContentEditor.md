@@ -6,7 +6,7 @@ subtitle: 콘텐츠 에디터 (Content Editor)
 <img src="https://t4framework.com/img/Folders2.png" width="18px" height="18px"> [Home](https://t4framework.com/index) > [Features](https://t4framework.com/T4Framework_Features) > 콘텐츠 에디터 (Content Editor)
 
 <style> .embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 1%; left: 0%; width: 99%; height: 99%; } </style>
-<div class='embed-container'><iframe src='https://www.youtube.com/embed/al08HbYBico' frameborder='0' allowfullscreen></iframe></div>
+<div class='embed-container'><iframe src='https://www.youtube.com/embed/9Y4CckVJKWI' frameborder='0' allowfullscreen></iframe></div>
 <hr>
 #### 1. 대상
 - 게임 디자이너
@@ -23,6 +23,7 @@ subtitle: 콘텐츠 에디터 (Content Editor)
   - 게임 컨트롤 및 카메라 세팅 지원
 - DataTable Column 간의 하이퍼링크 지원
   - 링크 오류를 자동으로 검출하여 데이터 무결성 지원
+  - 게임 프로젝트 간 GameDB Migration 지원
 - 다양한 월드와 콘텐츠 스폰을 동시에 편집, 테스트 지원
 - 레벨 에디터의 에디터 모드에서도 빠르게 콘텐츠 스폰 검증
 - 퀘스트 및 NPC AI 를 위한 전용 인하우스 툴 지원

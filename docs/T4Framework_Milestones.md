@@ -20,8 +20,8 @@ subtitle: The Most Powerful MMO Action RPG Framework for UE4
 ### B. 진행 (Progress)
 
 - [**Milestone 8**](https://t4framework.com/T4Framework_Milestone8_Achieved/)
-  - 기간 : 2020.10.21 ~ 2020.12.18
-  - 목표 : T4Framework 폴리싱 및 최적화 (v1.2)
+  - 기간 : 2020.10.21 ~ 2020.12.31
+  - 목표 : 네트워크 플레이 v1.2 버전 만들기 및 최적화 (v1.2)
 - Milestones
   - [Milestone 7](https://t4framework.com/T4Framework_Milestone7_Achieved/) (2020.07.06 ~ 2020.10.08, Issue 24 Closed)
     - 튜토리얼 제작 및 정식 서비스 버전 v1.0 만들기

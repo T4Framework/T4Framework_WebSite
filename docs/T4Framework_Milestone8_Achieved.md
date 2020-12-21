@@ -15,12 +15,12 @@ subtitle: Milestone 8 (2020.10.21 ~ 2020.12.18)
 ### B. 현황
 
 - 2020.10.21 ~ 2020.12.31
-  - Issue 8 Open, 19 Closed
+  - Issue 8 Open, 20 Closed
 
 ### C. 이슈
 
 - Open
-  - #192 : 캐릭터 무기 스왑 시스템 추가 (Equip, Mount)
+  - #194 : 사이드 뷰 및 컨트롤 모드 추가
   - #191 : 게임 모드 추가 후 깨진 Dedicated Server 기능 복구
   - #182 : 캐릭터 로딩전 애니메이션 플레이 동작 처리
   - #175 : M7 레거시 코드 리팩토링
@@ -30,6 +30,7 @@ subtitle: Milestone 8 (2020.10.21 ~ 2020.12.18)
   - #157 : AT4WorldActor Pooling 추가
     
 - Closed
+  - #192 : 캐릭터 무기 스왑 시스템 추가 (Equip, Mount) / 2020.12.21
   - #190 : 게임 프로젝트 간 GameDB 복제 기능 추가 / 2020.12.17
   - #192 : 게임 카메라 댐핑(Damping) 처리 추가 / 2020.12.14
   - #184 : 스폰 NPC 를 통한 퀘스트 활성화 기능 지원 / 2020.12.09
@@ -52,6 +53,8 @@ subtitle: Milestone 8 (2020.10.21 ~ 2020.12.18)
 
 ### D. 결과
 
+- Development clip #94 (2020.12.21)
+  - [Character Weapon Swapping](https://youtu.be/UmNrP_3fbCs){: target="_blank" }
 - Development clip #93 (2020.12.17)
   - [Editing Multiple Game Project and Migration](https://youtu.be/9Y4CckVJKWI){: target="_blank" }
 - Development clip #92 (2020.12.09)

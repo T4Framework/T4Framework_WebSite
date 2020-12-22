@@ -15,11 +15,12 @@ subtitle: Milestone 8 (2020.10.21 ~ 2020.12.18)
 ### B. 현황
 
 - 2020.10.21 ~ 2020.12.31
-  - Issue 8 Open, 20 Closed
+  - Issue 9 Open, 20 Closed
 
 ### C. 이슈
 
 - Open
+  - #195 : Game Project 기본 설정, 자동 생성 기능 추가
   - #194 : 사이드 뷰 및 컨트롤 모드 추가
   - #191 : 게임 모드 추가 후 깨진 Dedicated Server 기능 복구
   - #182 : 캐릭터 로딩전 애니메이션 플레이 동작 처리

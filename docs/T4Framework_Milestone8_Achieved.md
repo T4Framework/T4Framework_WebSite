@@ -15,13 +15,11 @@ subtitle: Milestone 8 (2020.10.21 ~ 2020.12.18)
 ### B. 현황
 
 - 2020.10.21 ~ 2020.12.31
-  - Issue 9 Open, 20 Closed
+  - Issue 7 Open, 22 Closed
 
 ### C. 이슈
 
 - Open
-  - #195 : Game Project 기본 설정, 자동 생성 기능 추가
-  - #194 : 사이드 뷰 및 컨트롤 모드 추가
   - #191 : 게임 모드 추가 후 깨진 Dedicated Server 기능 복구
   - #182 : 캐릭터 로딩전 애니메이션 플레이 동작 처리
   - #175 : M7 레거시 코드 리팩토링
@@ -31,6 +29,8 @@ subtitle: Milestone 8 (2020.10.21 ~ 2020.12.18)
   - #157 : AT4WorldActor Pooling 추가
     
 - Closed
+  - #194 : 사이드 뷰 및 컨트롤 모드 추가 / 2020.12.24
+  - #195 : Game Project 기본 설정, 자동 생성 기능 추가 / 2020.12.23
   - #192 : 캐릭터 무기 스왑 시스템 추가 (Equip, Mount) / 2020.12.21
   - #190 : 게임 프로젝트 간 GameDB 복제 기능 추가 / 2020.12.17
   - #192 : 게임 카메라 댐핑(Damping) 처리 추가 / 2020.12.14
@@ -54,6 +54,8 @@ subtitle: Milestone 8 (2020.10.21 ~ 2020.12.18)
 
 ### D. 결과
 
+- Development clip #95 (2020.12.24)
+  - [Side Scrolling Game (Side View & Control)](https://youtu.be/DI0fqihJDyY){: target="_blank" }
 - Development clip #94 (2020.12.21)
   - [Character Weapon Swapping](https://youtu.be/UmNrP_3fbCs){: target="_blank" }
 - Development clip #93 (2020.12.17)

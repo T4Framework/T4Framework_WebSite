@@ -54,6 +54,8 @@ subtitle: Milestone 8 (2020.10.21 ~ 2020.12.18)
 
 ### D. 결과
 
+- Development clip #96 (2020.12.29)
+  - [Multiplex Editing & Gaming](https://youtu.be/Zih8rM1W9cE){: target="_blank" }
 - Development clip #95 (2020.12.24)
   - [Side Scrolling Game (Side View & Control)](https://youtu.be/DI0fqihJDyY){: target="_blank" }
 - Development clip #94 (2020.12.21)

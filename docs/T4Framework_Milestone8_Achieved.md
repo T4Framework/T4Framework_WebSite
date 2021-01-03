@@ -15,12 +15,11 @@ subtitle: Milestone 8 (2020.10.21 ~ 2020.12.18)
 ### B. 현황
 
 - 2020.10.21 ~ 2020.12.31
-  - Issue 7 Open, 22 Closed
+  - Issue 6 Open, 23 Closed
 
 ### C. 이슈
 
 - Open
-  - #191 : 게임 모드 추가 후 깨진 Dedicated Server 기능 복구
   - #182 : 캐릭터 로딩전 애니메이션 플레이 동작 처리
   - #175 : M7 레거시 코드 리팩토링
   - #165 : Movement Component, Collision Mesh 위에서의 이동 처리
@@ -29,6 +28,7 @@ subtitle: Milestone 8 (2020.10.21 ~ 2020.12.18)
   - #157 : AT4WorldActor Pooling 추가
     
 - Closed
+  - #191 : 게임 모드 추가 후 깨진 Dedicated Server 기능 복구 / 2021.01.02
   - #194 : 사이드 뷰 및 컨트롤 모드 추가 / 2020.12.24
   - #195 : Game Project 기본 설정, 자동 생성 기능 추가 / 2020.12.23
   - #192 : 캐릭터 무기 스왑 시스템 추가 (Equip, Mount) / 2020.12.21
@@ -54,6 +54,8 @@ subtitle: Milestone 8 (2020.10.21 ~ 2020.12.18)
 
 ### D. 결과
 
+- Development clip #97 (2021.01.03)
+  - [Network Play (Dedicated Server)](https://youtu.be/zsMBieqbRaU){: target="_blank" }
 - Development clip #96 (2020.12.29)
   - [Multiplex Editing & Gaming](https://youtu.be/Zih8rM1W9cE){: target="_blank" }
 - Development clip #95 (2020.12.24)

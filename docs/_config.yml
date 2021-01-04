@@ -25,7 +25,7 @@ navbar-links:
   Tutorials: "T4Framework_Tutorials"
   Milestones: "T4Framework_Milestones"
   Download: "T4Framework_Download"
-  About Us: "AboutUs"
+  About Me: "AboutMe"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar

@@ -68,7 +68,7 @@ subtitle: Milestone 1 (2019.01.19 ~ 2019.04.19)
 
 ### E. 마일스톤
 
-- [Milestone8](https://t4framework.com/T4Framework_Milestone8_Achieved/) (2020.10.21 ~ 2020.12.18)
+- [Milestone8](https://t4framework.com/T4Framework_Milestone8_Achieved/) (2020.10.21 ~ 2020.12.31)
 - [Milestone7](https://t4framework.com/T4Framework_Milestone7_Achieved/) (2020.07.06 ~ 2020.10.08)
 - [Milestone6](https://t4framework.com/T4Framework_Milestone6_Achieved/) (2020.03.23 ~ 2020.06.26)
 - [Milestone5](https://t4framework.com/T4Framework_Milestone5_Achieved/) (2020.01.06 ~ 2020.03.13)

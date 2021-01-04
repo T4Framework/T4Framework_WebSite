@@ -3,7 +3,7 @@ layout: page
 bigimg: /img/New_T4Framework_Title.png
 use-site-title: false
 ---
-<img src="https://t4framework.com/img/Folders2.png" width="18px" height="18px"> [Home](https://t4framework.com/index) > About Us
+<img src="https://t4framework.com/img/Folders2.png" width="18px" height="18px"> [Home](https://t4framework.com/index) > About Me
 
 ### A. Vision
 
@@ -24,10 +24,6 @@ use-site-title: false
   - <img src="https://t4framework.com/img/Noh.png" width="100px" height="100px">
   - Architect, Programmer
 
-### D. Address
-
-- South Korea
-
-### E. Contact
+### D. Contact
 
 - <niceofer@hotmail.com>

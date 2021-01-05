@@ -8,7 +8,7 @@ subtitle: 엔티티 에디터 (Entity Editor)
 <center>
     <h4>
         엔티티 에디터란? 게임에서 사용하는 각종<br />
-        각종 캐릭터 및 프랍을 설정하는 가장 기본적인 툴입니다.
+        캐릭터 및 프랍을 설정하는 가장 기본적인 툴입니다.
     </h4>
 </center>
 <div class='embed-container'><iframe src='https://www.youtube.com/embed/EKyMbS8H5q4' frameborder='0' allowfullscreen></iframe></div>

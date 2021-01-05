@@ -38,4 +38,15 @@ googlefonts: ["Noto Serif KR"]
   - 트레일 액션 (Trail Action)
     - 시작, 끝 지점에 Particle Trail 설정
     - Ex) 검광, 체인 라이트닝
+  - 프로젝타일 액션 (Projectile Action)
+  - 무브먼트 액션 (Movement Action)
+  - 리액션 액션 (Reaction Action)
+  - 플레이테그 액션 (PlayTag Action)
+  - 머트리얼 파라미터 액션 (Material Parameter Action)
+  - 타임스케일 액션 (TimeScale Action)
+  - 카메라 워크 액션 (CameraWork Action)
+  - 카메라 쉐이크 액션 (CameraShake Action)
+  - 포스트 프로세스 액션 (Environment Action)
+  - 이벤트 액션 (Event Action)
+  - 브랜치 액션 (Branch Action)
 <br>

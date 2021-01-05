@@ -10,18 +10,15 @@ subtitle: The Most Powerful MMO Action RPG Framework for UE4
 
 <hr />
 
-<br />
 <div class='embed-container'><iframe src='https://www.youtube.com/embed/_4gvVhd-mH4' frameborder='0' allowfullscreen></iframe></div>
 <center><b>Showcase #3 - Side-scrolling Demo 'SubwayTrain'</b></center>
 
 <hr />
 
-<br />
 <div class='embed-container'><iframe src='https://www.youtube.com/embed/BaIdreR8iLc' frameborder='0' allowfullscreen></iframe></div>
 <center><b>Showcase #2 - TPS Demo 'Zombie World'</b></center>
 
 <hr />
 
-<br />
 <div class='embed-container'><iframe src='https://www.youtube.com/embed/-0xiVrTJTz0' frameborder='0' allowfullscreen></iframe></div>
 <center><b>Showcase #1 - Multiple Game Projects</b></center>

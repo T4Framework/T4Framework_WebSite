@@ -21,6 +21,7 @@ description: T4Framework - The Most Powerful MMO Action RPG Framework for UE4
 # List of links in the navigation bar
 navbar-links:
   Home: "index"
+  Features: "T4Framework_Showcase"
   Features: "T4Framework_Features"
   Tutorials: "T4Framework_Tutorials"
   Milestones: "T4Framework_Milestones"

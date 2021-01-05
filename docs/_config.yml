@@ -22,12 +22,12 @@ description: T4Framework - The Most Powerful MMO Action RPG Framework for UE4
 navbar-links:
   Home: "index"
   Showcase: "T4Framework_Showcase"
-  Features: "T4Framework_Features"
-    Entity Editor: "T4Framework_Features_EntityEditor"
-    Action Editor: "T4Framework_Features_ActionEditor"
-    World Explorer: "T4Framework_Features_WorldExplorer"
-    Content Editor: "T4Framework_Features_ContentEditor"
-    Framework: "T4Framework_Features_Framework"
+  Features:
+    - Entity Editor: "T4Framework_Features_EntityEditor"
+    - Action Editor: "T4Framework_Features_ActionEditor"
+    - World Explorer: "T4Framework_Features_WorldExplorer"
+    - Content Editor: "T4Framework_Features_ContentEditor"
+    - Framework: "T4Framework_Features_Framework"
   Tutorials: "T4Framework_Tutorials"
   Milestones: "T4Framework_Milestones"
   Download: "T4Framework_Download"

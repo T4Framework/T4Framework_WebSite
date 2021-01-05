@@ -10,21 +10,31 @@ googlefonts: ["Noto Serif KR"]
 <hr>
 ### 1. 액션 에디터는?
 - 캐릭터 전투 및 각종 연출 효과 설정을 위한 액션 툴입니다.
-
+- 언리얼 엔진의 다양한 기능을 사용자 관점에서 사용하기 쉽도록 준비되어 있습니다.
 ### 2. 주요 기능 소개
 - N개의 액션을 조합해 다양한 연출을 구성 지원
   - 플레이 시작 및 전체 시간에 대한 타임라인 기반 편집
   - OneShot, Looping, Sequential 등의 플레이 모드
   - 부모 캐릭터의 본(소켓)에 Attach 및 World 생성
+  - Relative Transform 에 대한 Local Offset
 - 액션 리스트
   - 애니메이션 액션 (Animation Action)
     - 애니메이션 블랜딩 시간 설정 및 조합 설정
     - 연속 동작 설정 및 플레이 타임 조정
+    - ex) 공격 및 루핑 애니메이션, 연속 기술 사용
+  - 메시 액션 (Mesh Action)
+    - Static Mesh 임의 시간 출력
+    - ex) 활 또는 물체를 일정 시간 사용 후 삭제
   - 파티클 액션 (Particle Action)
     - 캐스케이드로 제작된 ParticleSystem 출력
-    - World 또는 Local Offset
+    - ex) 마법, 버프, 히트 등의 각종 효과 표현용 파티클
   - 데칼 액션 (Decal Action)
     - 테칼 머트리얼 설정 및 출력 방향 설정
+    - ex) 지저분한 바닥 표현
   - 오디오 액션 (Audio Action)
     - 사운드 에셋 및 Attenuation 세팅 설정
+    - ex) 각종 효과 사운드 설정
+  - 트레일 액션 (Trail Action)
+    - 시작, 끝 지점에 Particle Trail 설정
+    - Ex) 검광, 체인 라이트닝
 <br>

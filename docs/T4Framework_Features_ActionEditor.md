@@ -10,7 +10,8 @@ googlefonts: ["Noto Serif KR"]
 <hr>
 ### 1. 액션 에디터는?
 - 캐릭터 전투 및 각종 연출 효과 설정을 위한 액션 툴입니다.
-- 언리얼 엔진의 다양한 기능을 사용자 관점에서 사용하기 쉽도록 준비되어 있습니다.
+- 언리얼 엔진의 복잡한 기능들을 사용자 관점에서 사용하기 쉽도록 설계되어 있습니다.
+- 툴에서 변경한 내용을 빠르게 확인할 수 있는 다양한 기능을 지원하고 있습니다.
 
 ### 2. 주요 기능 소개
 - N개의 액션을 조합해 다양한 연출을 구성 지원
@@ -42,7 +43,7 @@ googlefonts: ["Noto Serif KR"]
   - 무브먼트 액션 (Movement Action)
   - 리액션 액션 (Reaction Action)
   - 플레이테그 액션 (PlayTag Action)
-  - 머트리얼 파라미터 액션 (Material Parameter Action)
+  - 머트리얼 파라미터 액션 (MaterialParameter Action)
   - 타임스케일 액션 (TimeScale Action)
   - 카메라 워크 액션 (CameraWork Action)
   - 카메라 쉐이크 액션 (CameraShake Action)

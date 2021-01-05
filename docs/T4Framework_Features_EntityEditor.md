@@ -3,8 +3,7 @@ layout: page
 title: T4Framework
 subtitle: 엔티티 에디터 (Entity Editor)
 ---
-<img src="https://t4framework.com/img/Folders2.png" width="18px" height="18px"> [Home](https://t4framework.com/index) > [Features](https://t4framework.com/T4Framework_Features) > 엔티티 에디터 (Entity Editor)
-<hr />
+<img src="https://t4framework.com/img/Folders2.png" width="18px" height="18px"> [Home](https://t4framework.com/index) > [Features](https://t4framework.com/T4Framework_Features) > 엔티티 에디터 (Entity Editor)<hr />
 <style> .embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 1%; left: 0%; width: 99%; height: 99%; } </style>
 <div class='embed-container'><iframe src='https://www.youtube.com/embed/EKyMbS8H5q4' frameborder='0' allowfullscreen></iframe></div>
 <hr>
@@ -34,8 +33,4 @@ subtitle: 엔티티 에디터 (Entity Editor)
 - 실시간 머트리얼 교체 기능 지원
 - 동적인 환경 존을 설정하고 테스트 할 수 있는 기능 지원
 - 툴 환경에서 언리얼 레벨을 Preview 할 수 있는 기능 지원
-
-#### 4. 워크플로 소개
-- 별도의 전용 툴 제공
-- 게임 플레이(PIE) 중에도 수정 내용 반영
 <br>

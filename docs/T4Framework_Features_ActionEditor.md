@@ -14,14 +14,14 @@ googlefonts: ["Noto Serif KR"]
 - 툴에서 변경한 내용을 빠르게 확인할 수 있는 다양한 기능을 지원하고 있습니다.
 
 ### 2. 주요 기능 소개
-- N개의 액션을 조합해 다양한 연출을 구성 지원
+- 다양한 액션을 조합해 새로운 연출 제작 지원
   - 플레이 시작 및 전체 시간에 대한 타임라인 기반 편집
-  - OneShot, Looping, Sequential 등의 플레이 모드
+  - OneShot, Looping, Duration 등의 플레이 모드
   - 부모 캐릭터의 본(소켓)에 Attach 및 World 생성
-  - Relative Transform 에 대한 Local Offset
+  - Relative Transform에 대한 Local Offset
 - 액션 리스트
   - 애니메이션 액션 (Animation Action)
-    - 애니메이션 블랜딩 시간 설정 및 조합 설정
+    - 애니메이션 블렌딩 시간 설정 및 조합 설정
     - 연속 동작 설정 및 플레이 타임 조정
     - ex) 공격 및 루핑 애니메이션, 연속 기술 사용
   - 메시 액션 (Mesh Action)
@@ -31,7 +31,7 @@ googlefonts: ["Noto Serif KR"]
     - 캐스케이드로 제작된 ParticleSystem 출력
     - ex) 마법, 버프, 히트 등의 각종 효과 표현용 파티클
   - 데칼 액션 (Decal Action)
-    - 테칼 머트리얼 설정 및 출력 방향 설정
+    - 데칼 머트리얼 설정 및 출력 방향 설정
     - ex) 지저분한 바닥 표현
   - 오디오 액션 (Audio Action)
     - 사운드 에셋 및 Attenuation 세팅 설정
@@ -50,16 +50,32 @@ googlefonts: ["Noto Serif KR"]
     - 시작=>루핑=>끝 등의 가변 애니메이션 시퀀스 설정
     - 렉돌 또는 플린칭 등의 효과 설정
     - ex) 히트, 사망, 넉백, 에어본
-  - 플레이테그 액션 (PlayTag Action)
-    - 엔티티에서 설정된 Attach/Material/Action 테그 플레이
+  - 플레이 태그 액션 (PlayTag Action)
+    - 엔티티에서 설정된 Attach/Material/Action 태그 플레이
     - ex) 머트리얼 교체, 무기 장착/해제, 특정 액션 실행
   - 머트리얼 파라미터 액션 (MaterialParameter Action)
     - 머트리얼 파라미터 업데이트 및 복원
     - ex) 히트 및 버프/디버프 시 Color 적용
   - 타임스케일 액션 (TimeScale Action)
+    - 게임 시간을 느리게 또는 빠르게 설정
+    - Timeline 구간 별 가변 속도 적용
+    - ex) 슬로 모션
   - 카메라 워크 액션 (CameraWork Action)
-  - 카메라 쉐이크 액션 (CameraShake Action)
+    - 포인트를 기준으로 카메라 이동 설정
+    - ex) 특정 액션 구간에 대한 카메라 강조 처리
+  - 카메라 셰이크 액션 (CameraShake Action)
+    - 카메라 흔들기
+    - ex) 히트 구간 강조
   - 포스트 프로세스 액션 (Environment Action)
+    - 스크린 기반 후처리 필터 및 효과 설정
+    - ex) 흑백, 대비 등의 각종 필터 효과
+  - 환경 액션 (Environment Action)
+    - 특정 영역 내 동적인 환경 설정 적용
+    - ex) 눈, 비등의 동적인 효과
   - 이벤트 액션 (Event Action)
+    - 시스템에 의해 약속된 이벤트 설정
+    - ex) 무기의 충돌 효과 시작과 끝
   - 브랜치 액션 (Branch Action)
+    - 컨디션에 따른 분기 처리
+    - ex) 비 또는 눈일 경우 다른 Action 실행
 <br>

@@ -30,6 +30,6 @@ subtitle: The Most Powerful MMO Action RPG Framework for UE4
 - 콘텐츠 제작을 위한 게임 디자인 제작 툴입니다. [>> 자세히 알아보기](https://t4framework.com/T4Framework_Features_ContentEditor)
 <div class='embed-container'><iframe src='https://www.youtube.com/embed/UmNrP_3fbCs' frameborder='0' allowfullscreen></iframe></div>
 
-### 6. 유연한 프레임워크 (Flexible Framework)
-- 그 외, 강력하고 유연한 프레임워크의 기능을 소개합니다. [>> 자세히 알아보기](https://t4framework.com/T4Framework_Features_FlexibleFramework)
+### 6. 프레임워크 (Framework)
+- 그 외, 강력하고 유연한 프레임워크의 기능을 소개합니다. [>> 자세히 알아보기](https://t4framework.com/T4Framework_Features_Framework)
 <div class='embed-container'><iframe src='https://www.youtube.com/embed/zsMBieqbRaU' frameborder='0' allowfullscreen></iframe></div>

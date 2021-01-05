@@ -7,16 +7,13 @@ subtitle: 엔티티 에디터 (Entity Editor)
 <style> .embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 1%; left: 0%; width: 99%; height: 99%; } </style>
 <center>
     <h3>
-        엔티티 에디터란?<br />
-        게임에서 사용하는 각종 캐릭터 및 프랍을 설정하는 가장 기본적인 툴입니다.
+        엔티티 에디터란? 게임에서 사용하는 각종<br />
+        각종 캐릭터 및 프랍을 설정하는 가장 기본적인 툴입니다.
     </h3>
 </center>
 <div class='embed-container'><iframe src='https://www.youtube.com/embed/EKyMbS8H5q4' frameborder='0' allowfullscreen></iframe></div>
 <br>
-#### 1. 엔티티 에디터란?
-- 게임에서 사용하는 각종 캐릭터 및 프랍을 설정하는 가장 기본적인 툴입니다.
 
-#### 2. 기능 소개
 - 게임 내 등장하는 모든 오브젝트에 대한 메시 및 프로퍼티 설정
   - World, Actor, Prop, Item (Costume & Weapon)
 - 풀바디 캐릭터의 스킨 교체 시스템 지원

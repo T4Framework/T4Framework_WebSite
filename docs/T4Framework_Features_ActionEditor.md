@@ -38,12 +38,24 @@ googlefonts: ["Noto Serif KR"]
     - ex) 각종 효과 사운드 설정
   - 트레일 액션 (Trail Action)
     - 시작, 끝 지점에 Particle Trail 설정
-    - Ex) 검광, 체인 라이트닝
+    - ex) 검광, 체인 라이트닝
   - 프로젝타일 액션 (Projectile Action)
+    - 발사체 Casting, Fire 등의 연출 설정
+    - 직선, 곡사 등의 다양한 궤적 설정
+    - ex) 화살, 총알 궤적
   - 무브먼트 액션 (Movement Action)
+    - 지정 시간, 위치로의 이동 관련 설정
+    - ex) 점프, 넉다운, 넉백
   - 리액션 액션 (Reaction Action)
+    - 시작=>루핑=>끝 등의 가변 애니메이션 시퀀스 설정
+    - 렉돌 또는 플린칭 등의 효과 설정
+    - ex) 히트, 사망, 넉백, 에어본
   - 플레이테그 액션 (PlayTag Action)
+    - 엔티티에서 설정된 Attach/Material/Action 테그 플레이
+    - ex) 머트리얼 교체, 무기 장착/해제, 특정 액션 실행
   - 머트리얼 파라미터 액션 (MaterialParameter Action)
+    - 머트리얼 파라미터 업데이트 및 복원
+    - ex) 히트 및 버프/디버프 시 Color 적용
   - 타임스케일 액션 (TimeScale Action)
   - 카메라 워크 액션 (CameraWork Action)
   - 카메라 쉐이크 액션 (CameraShake Action)

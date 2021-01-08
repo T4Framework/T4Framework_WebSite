@@ -15,21 +15,36 @@ subtitle: The Most Powerful MMO Action RPG Framework for UE4
 
 ### 2. 준비
 
-- 'Skeleton Crew' Project Download
-  - [GitHub/Tech4Labs/MakeYourStory](https://github.com/Tech4Labs/MakeYourStory)
-    - /Content/T4Tutorials/Step1_SkeletonCrew/Project/Tutorial_Step1_SkeletonCrewProject
+- Supported Engine Versions
+  - 4.26 (Release Version : 4.26.0)
+- T4Framework Downlaod
+  - [GitHub/Tech4Labs/T4GameDeck](https://github.com/Tech4Labs/T4GameDeck)
+- Example Project 
+  - /Content/T4Tutorials/Step1_SkeletonCrew/Project/Tutorial_Step1_SkeletonCrewProject
 - Required Asset
   - [Character] Skeleton Crew Bundle
     - [unrealengine.com/marketplace/product/skeleton-crew-bundle](https://www.unrealengine.com/marketplace/en-US/product/skeleton-crew-bundle)
   - [FX] Paragon: Sparrow (FREE)
     - [unrealengine.com/marketplace/product/paragon-sparrow](https://www.unrealengine.com/marketplace/en-US/product/paragon-sparrow)
-- Optional Asset
   - [Map] Fantasy and Medieval Architecture Kit
     - [unrealengine.com/marketplace/product/fantasy-and-medieval-artchitecture-kit](https://www.unrealengine.com/marketplace/en-US/product/fantasy-and-medieval-artchitecture-kit)
 
-### 3. 과정
+### 3. 정오표
+
+<center><b>[주의] 본 튜토리얼은 v1.0 버전 기준으로 작업되어 있어 최신 버전과 약간의 차이가 있을 수 있습니다.</b></center>
+
+- [#6 튜토리얼]
+  - Project Settings 메뉴의 Project GameName 프로퍼티가 ProjectID 으로 이름이 변경되었습니다.
+  - SkeletonCrewProject 프로젝트 생성 방법
+    - T4GameProject 에셋 생성 후 Content Editor 로 오픈합니다.
+      - 콘텐츠 브라우저 => 마우스 우클릭 => T4Framework => Content => T4GameProject 선택 => 더블클릭 => SkeletonCrew 이름 변경
+    - Project Settings 의 Project Initialization 버튼으로 기본 에셋 및 설정 자동 생성합니다.
+      - <주의> T4GameProject 에셋의 이름인 "SkeletonCrew" 으로 필수 에셋이 자동 생성됩니다.
+
+### 4. 과정
 
 <center><b>[참고] 모든 영상에는 한글 자막이 포함되어 있습니다. 자막을 켜주세요!</b></center>
+
 <div class='embed-container'><iframe src='https://www.youtube.com/embed/MCfZAzuThAk' frameborder='0' allowfullscreen></iframe></div>
 <center><b>#1 Character Setup : 캐릭터 기본 메시 및 애니메이션 설정 (Crossbowman)</b></center>
 

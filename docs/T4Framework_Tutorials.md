@@ -24,10 +24,13 @@ subtitle: The Most Powerful MMO Action RPG Framework for UE4
 - Required Asset
   - [Character] Skeleton Crew Bundle
     - [unrealengine.com/marketplace/product/skeleton-crew-bundle](https://www.unrealengine.com/marketplace/en-US/product/skeleton-crew-bundle)
+    - /Content/SkeletonCrew
   - [FX] Paragon: Sparrow (FREE)
     - [unrealengine.com/marketplace/product/paragon-sparrow](https://www.unrealengine.com/marketplace/en-US/product/paragon-sparrow)
+    - /Content/ParagonSparrow
   - [Map] Fantasy and Medieval Architecture Kit
     - [unrealengine.com/marketplace/product/fantasy-and-medieval-artchitecture-kit](https://www.unrealengine.com/marketplace/en-US/product/fantasy-and-medieval-artchitecture-kit)
+    - /Content/FantasyVillage
 
 ### 3. 교정
 

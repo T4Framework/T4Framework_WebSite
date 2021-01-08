@@ -34,7 +34,7 @@ subtitle: The Most Powerful MMO Action RPG Framework for UE4
 
 ### 3. 교정
 
-- **#6 튜토리얼**
+- **튜토리얼 #6 : Map and NPC Spawn**
   - Project Settings 메뉴의 Project GameName 프로퍼티가 ProjectID 으로 이름이 변경되었습니다. (v1.2)
   - SkeletonCrewProject 프로젝트 생성 방법 (v1.2)
     - T4GameProject 에셋 생성 후 Content Editor 로 오픈합니다.

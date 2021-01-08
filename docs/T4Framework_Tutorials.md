@@ -29,11 +29,11 @@ subtitle: The Most Powerful MMO Action RPG Framework for UE4
   - [Map] Fantasy and Medieval Architecture Kit
     - [unrealengine.com/marketplace/product/fantasy-and-medieval-artchitecture-kit](https://www.unrealengine.com/marketplace/en-US/product/fantasy-and-medieval-artchitecture-kit)
 
-### 3. 정오표
+### 3. 업데이트
 
-- #6 튜토리얼
-  - Project Settings 메뉴의 Project GameName 프로퍼티가 ProjectID 으로 이름이 변경되었습니다.
-  - SkeletonCrewProject 프로젝트 생성 방법
+- **#6 튜토리얼**
+  - Project Settings 메뉴의 Project GameName 프로퍼티가 ProjectID 으로 이름이 변경되었습니다. (v1.2)
+  - SkeletonCrewProject 프로젝트 생성 방법 (v1.2)
     - T4GameProject 에셋 생성 후 Content Editor 로 오픈합니다.
       - 콘텐츠 브라우저 => 마우스 우클릭 => T4Framework => Content => T4GameProject 선택 => 더블클릭 => SkeletonCrew 이름 변경
     - Project Settings 의 Project Initialization 버튼으로 기본 에셋 및 설정 자동 생성합니다.

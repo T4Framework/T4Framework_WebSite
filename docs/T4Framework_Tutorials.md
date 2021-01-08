@@ -31,8 +31,6 @@ subtitle: The Most Powerful MMO Action RPG Framework for UE4
 
 ### 3. 정오표
 
-<center><b>[주의] 본 튜토리얼은 v1.0 버전 기준으로 작업되어 있어 최신 버전과 약간의 차이가 있을 수 있습니다.</b></center>
-
 - [#6 튜토리얼]
   - Project Settings 메뉴의 Project GameName 프로퍼티가 ProjectID 으로 이름이 변경되었습니다.
   - SkeletonCrewProject 프로젝트 생성 방법
@@ -43,6 +41,7 @@ subtitle: The Most Powerful MMO Action RPG Framework for UE4
 
 ### 4. 과정
 
+<center><b>[주의] 본 튜토리얼은 v1.0 버전 기준으로 작업되어 있어 최신 버전과 약간의 차이가 있을 수 있습니다.</b></center>
 <center><b>[참고] 모든 영상에는 한글 자막이 포함되어 있습니다. 자막을 켜주세요!</b></center>
 
 <div class='embed-container'><iframe src='https://www.youtube.com/embed/MCfZAzuThAk' frameborder='0' allowfullscreen></iframe></div>

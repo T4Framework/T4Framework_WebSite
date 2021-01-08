@@ -29,7 +29,7 @@ subtitle: The Most Powerful MMO Action RPG Framework for UE4
   - [Map] Fantasy and Medieval Architecture Kit
     - [unrealengine.com/marketplace/product/fantasy-and-medieval-artchitecture-kit](https://www.unrealengine.com/marketplace/en-US/product/fantasy-and-medieval-artchitecture-kit)
 
-### 3. 업데이트
+### 3. 교정
 
 - **#6 튜토리얼**
   - Project Settings 메뉴의 Project GameName 프로퍼티가 ProjectID 으로 이름이 변경되었습니다. (v1.2)

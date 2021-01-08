@@ -17,7 +17,7 @@ subtitle: The Most Powerful MMO Action RPG Framework for UE4
 
 - Supported Engine Versions
   - 4.26 (Release Version : 4.26.0)
-- T4Framework Downlaod
+- T4Framework Download
   - [GitHub/Tech4Labs/T4GameDeck](https://github.com/Tech4Labs/T4GameDeck)
 - Example Project 
   - /Content/T4Tutorials/Step1_SkeletonCrew/Project/Tutorial_Step1_SkeletonCrewProject

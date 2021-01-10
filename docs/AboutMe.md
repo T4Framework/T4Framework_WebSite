@@ -20,7 +20,7 @@ use-site-title: false
 
 ### C. Member
 
-- Tech4Labs (Lead Programmer)
+- Niceofer (Lead Programmer)
   - <img src="https://t4framework.com/img/Noh.png" width="100px" height="100px">
   - Architect, Programmer
 

@@ -8,10 +8,12 @@ subtitle: The Most Powerful MMO Action RPG Framework for UE4
 ### A. 일정 (Plan)
 
 - 2021
+  - 1/4 : v1.5 버전 
+    - 데모 프로젝트 제작 (Milestone 9)
   - 2/4 : v2.0 버전 
-    - 중급 게임 개발 가능 수준 개발
-  - 4/4 : v3.0 버전 
-    - 고급 게임 개발 가능 수준 개발
+    - 정식 서비스 버전 (Milestone 10)
+  - 4/4 : v2.2 버전 
+    - 중급 게임 개발 (Milestone 11)
 
 ### B. 진행 (Progress)
 

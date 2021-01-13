@@ -13,7 +13,12 @@ subtitle: 월드 익스플로러 (World Explorer)
 
 ### 2. 주요 기능 소개
 - 대규모 월드 작업을 위한 World Composition 관리 기능
-- 월드의 라이팅, 포그를 포함한 환경 설정 및 TOD (Time of Day) 설정
-- 월드의 환경존을 설정하고 존과 존 사이의 연결 구간에 대한 자동 블랜딩 설정
-- TOD (Time of Day) 와 Zone 사이의 블랜딩과 Timelapse 를 통한 디버깅 환경 지원
+- 월드의 전역 및 존 별 환경 설정과 TOD (Time of Day) 블랜딩 지원
+  - Directional Light
+  - Sky Light
+  - SKY Sphere
+  - Atmospheric Fog
+  - Exponential Height Fog
+  - Post Processing
+- 월드 Timelapse 지원
 <br>

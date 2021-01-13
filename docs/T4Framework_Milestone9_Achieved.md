@@ -14,11 +14,12 @@ subtitle: Milestone 9 (2021.01.18 ~ 2021.04.30)
 ### B. 현황
 
 - 2021.01.18 ~ 2021.04.30
-  - Issue 6 Open, 0 Closed
+  - Issue 7 Open, 0 Closed
 
 ### C. 이슈
 
 - Open
+  - #197 : VR 게임 모드 옵션 추가
   - #196 : 리플레이 기능 복구
   - #182 : 캐릭터 로딩전 애니메이션 플레이 동작 처리 (이월)
   - #165 : Movement Component, Collision Mesh 위에서의 이동 처리 (이월)

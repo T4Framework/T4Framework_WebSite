@@ -9,17 +9,17 @@ subtitle: The Most Powerful MMO Action RPG Framework for UE4
 
 - 2021
   - 1/4 : v1.5 버전 
-    - 데모 프로젝트 제작 (Milestone 9)
+    - 데모 프로젝트 제작 및 배포
   - 2/4 : v2.0 버전 
-    - 정식 서비스 버전 (Milestone 10)
+    - 정식 서비스 버전
   - 4/4 : v2.2 버전 
-    - 중급 게임 개발 (Milestone 11)
+    - 중급 게임 개발
 
 ### B. 진행 (Progress)
 
-- [**Milestone 9**] 준비중...
-  - 기간 : N/A
-  - 목표 : N/A
+- [**Milestone 9**](https://t4framework.com/T4Framework_Milestone9_Achieved/)
+  - 기간 : 2021.01.18 ~ 2021.04.30
+  - 목표 : 데모 프로젝트 제작 및 스팀 배포 준비 (v1.5)
 - Milestones
   - [Milestone 8](https://t4framework.com/T4Framework_Milestone8_Achieved/) (2020.10.21 ~ 2020.12.31, Issue 24 Closed)
     - 네트워크 플레이 v1.2 버전 만들기 및 최적화 (v1.2)

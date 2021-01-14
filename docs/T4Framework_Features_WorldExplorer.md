@@ -21,4 +21,5 @@ subtitle: 월드 익스플로러 (World Explorer)
   - Exponential Height Fog
   - Post Processing
 - 월드 Timelapse 지원
+- 미니맵 생성 지원
 <br>

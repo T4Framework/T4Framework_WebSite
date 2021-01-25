@@ -5,7 +5,7 @@ subtitle: 프레임워크 (Framework)
 ---
 <img src="https://t4framework.com/img/Folders2.png" width="18px" height="18px"> [Home](https://t4framework.com/index) > [Features](https://t4framework.com/T4Framework_Features) > 프레임워크 (Flexible Framework)
 <style> .embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0%; left: 0%; width: 99%; height: 99%; } </style>
-<div class='embed-container'><iframe src='https://www.youtube.com/embed/zsMBieqbRaU' frameborder='0' allowfullscreen></iframe></div>
+<div class='embed-container'><iframe src='https://www.youtube.com/embed/1x5IekbXC1A' frameborder='0' allowfullscreen></iframe></div>
 <hr>
 ### 1. UE4 Dedicated Server
 - 개별 Actor, Component 단위의 Replication 기능은 사용하지 않음

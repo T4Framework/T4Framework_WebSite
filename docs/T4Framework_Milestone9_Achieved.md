@@ -31,6 +31,8 @@ subtitle: Milestone 9 (2021.01.18 ~ 2021.04.30)
 
 ### D. 결과
 
+- Development clip #100 (2021.01.30)
+  - [VR Mode Launch (Step 2/2, Bow or Sword Equipment & Attack)](https://youtu.be/DRYJdIe8yBM){: target="_blank" } 
 - Development clip #99 (2021.01.25)
   - [VR Mode Launch (Step 1/2, HMD & MotionController)](https://youtu.be/1x5IekbXC1A){: target="_blank" } 
 - Development clip #98 (2021.01.15)

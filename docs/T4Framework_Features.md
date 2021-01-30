@@ -32,4 +32,4 @@ subtitle: The Most Powerful MMO Action RPG Framework for UE4
 
 ### 6. 프레임워크 (Framework)
 - 그 외, 강력하고 유연한 프레임워크의 기능을 소개합니다. [>> 자세히 알아보기](https://t4framework.com/T4Framework_Features_Framework)
-<div class='embed-container'><iframe src='https://www.youtube.com/embed/1x5IekbXC1A' frameborder='0' allowfullscreen></iframe></div>
+<div class='embed-container'><iframe src='https://www.youtube.com/embed/DRYJdIe8yBM' frameborder='0' allowfullscreen></iframe></div>

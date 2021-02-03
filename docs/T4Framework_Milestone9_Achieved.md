@@ -14,14 +14,13 @@ subtitle: Milestone 9 (2021.01.18 ~ 2021.04.30)
 ### B. 현황
 
 - 2021.01.18 ~ 2021.04.30
-  - Issue 8 Open, 1 Closed
+  - Issue 7 Open, 2 Closed
 
 ### C. 이슈
 
 - Open
   - #199 : 일반 게임 프로젝트의 VR 동작 모드 추가
   - #198 : ActionPack 의 최대 및 기준 플레이 시간 설정 분리
-  - #197 : VR 게임 모드 옵션 추가
   - #182 : 캐릭터 로딩전 애니메이션 플레이 동작 처리 (이월)
   - #165 : Movement Component, Collision Mesh 위에서의 이동 처리 (이월)
   - #162 : PropEntity 의 Composite Component 기능 구현 (이월)
@@ -29,6 +28,7 @@ subtitle: Milestone 9 (2021.01.18 ~ 2021.04.30)
   - #157 : AT4WorldActor Pooling 추가 (이월)
     
 - Closed
+  - #197 : VR 게임 모드 옵션 추가 / 2020.02.02
   - #196 : 리플레이 기능 복구 / 2021.01.15
 
 ### D. 결과

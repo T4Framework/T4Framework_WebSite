@@ -14,11 +14,12 @@ subtitle: Milestone 9 (2021.01.18 ~ 2021.04.30)
 ### B. 현황
 
 - 2021.01.18 ~ 2021.04.30
-  - Issue 7 Open, 2 Closed
+  - Issue 8 Open, 2 Closed
 
 ### C. 이슈
 
 - Open
+  - #200 : Content Editor, GameDB Key 리네임 시 자동 마이그레이션 기능 추가
   - #199 : 일반 게임 프로젝트의 VR 동작 모드 추가
   - #198 : ActionPack 의 최대 및 기준 플레이 시간 설정 분리
   - #182 : 캐릭터 로딩전 애니메이션 플레이 동작 처리 (이월)

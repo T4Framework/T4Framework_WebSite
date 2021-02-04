@@ -1,7 +1,7 @@
 ---
 layout: page
 title: T4Framework
-subtitle: Milestone 1 (2019.01.19 ~ 2019.04.19)
+subtitle: Milestone 1 (Prototyping)
 ---
 <img src="https://t4framework.com/img/Folders2.png" width="18px" height="18px"> [Home](https://t4framework.com/index) > [Milestones](https://t4framework.com/T4Framework_Milestones/) > Milestone 1
 
@@ -17,7 +17,7 @@ subtitle: Milestone 1 (2019.01.19 ~ 2019.04.19)
 
 ### B. 현황
 
-- 2019.01.19 ~ 2019.04.19
+- Prototyping
   - Issue 32 Closed
 - Branch: M1
   - <https://github.com/Tech4Labs/T4Framework/tree/M1>
@@ -76,4 +76,4 @@ subtitle: Milestone 1 (2019.01.19 ~ 2019.04.19)
 - [Milestone4](https://t4framework.com/T4Framework_Milestone4_Achieved/) (2019.10.07 ~ 2019.12.20)
 - [Milestone3](https://t4framework.com/T4Framework_Milestone3_Achieved/) (2019.08.05 ~ 2019.10.04)
 - [Milestone2](https://t4framework.com/T4Framework_Milestone2_Achieved/) (2019.05.06 ~ 2019.07.31)
-- Milestone1 (2019.01.19 ~ 2019.04.19) <=
+- Milestone1 (Prototyping) <=

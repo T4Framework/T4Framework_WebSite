@@ -104,4 +104,4 @@ subtitle: Milestone 4 (2019.10.07 ~ 2019.12.20)
 - Milestone4 (2019.10.07 ~ 2019.12.20) <=
 - [Milestone3](https://t4framework.com/T4Framework_Milestone3_Achieved/) (2019.08.05 ~ 2019.10.04)
 - [Milestone2](https://t4framework.com/T4Framework_Milestone2_Achieved/) (2019.05.06 ~ 2019.07.31)
-- [Milestone1](https://t4framework.com/T4Framework_Milestone1_Achieved/) (2019.01.19 ~ 2019.04.19)
+- [Milestone1](https://t4framework.com/T4Framework_Milestone1_Achieved/) (Prototyping)

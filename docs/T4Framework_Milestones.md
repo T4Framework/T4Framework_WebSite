@@ -35,5 +35,5 @@ subtitle: The Most Powerful MMO Action RPG Framework for UE4
     - 캐릭터 설정과 전투 관련 기능 개발 및 툴 만들기
   - [Milestone 2](https://t4framework.com/T4Framework_Milestone2_Achieved/) (2019.05.06 ~ 2019.07.31, Issue 25 Closed)
     - 캐릭터, 애니메이션, 스킬 제작 프로세스 설계 및 툴 만들기
-  - [Milestone 1](https://t4framework.com/T4Framework_Milestone1_Achieved/) (2019.01.19 ~ 2019.04.19, Issue 32 Closed)
+  - [Milestone 1](https://t4framework.com/T4Framework_Milestone1_Achieved/) (Prototyping, Issue 32 Closed)
     - 아키텍처 설계 및 프로토타이핑

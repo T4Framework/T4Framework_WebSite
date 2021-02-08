@@ -23,14 +23,10 @@ subtitle: The Most Powerful MMO Action RPG Framework for UE4
 - [GitHub/Tech4Labs/T4Framework](https://github.com/Tech4Labs/T4Framework) (Private)
   - T4Framework 소스코드와 개발 이슈 등의 개발자 페이지에 접근하실 수 있습니다.
 
-### D. Community
-
-- [Naver Cafe](https://cafe.naver.com/t4framework) : 네이버 공식 카페입니다. (KOR)
-
-### E. License
+### D. License
 
 - 준비중입니다.
 
-### F. Feedback or Bug Report
+### E. Feedback or Bug Report
 
 - <niceofer@hotmail.com>

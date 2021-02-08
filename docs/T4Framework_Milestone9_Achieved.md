@@ -20,12 +20,12 @@ subtitle: Milestone 9 (2021.01.18 ~ 2021.04.30)
 ### C. 이슈
 
 - Open
+  - #202 : 조합형 캐릭터의 Physics 지원을 위한 MeshMerge 기능 추가
   - #201 : Costume DB 를 사용한 파츠/스킨 교환 시스템 추가
   - #200 : Content Editor, GameDB Key 리네임 시 자동 마이그레이션 기능 추가
   - #182 : 캐릭터 로딩전 애니메이션 플레이 동작 처리 (이월)
   - #165 : Movement Component, Collision Mesh 위에서의 이동 처리 (이월)
   - #162 : PropEntity 의 Composite Component 기능 구현 (이월)
-  - #159 : 조합형 캐릭터의 Master Composite Part 자동 추가 (이월)
   - #157 : AT4WorldActor Pooling 추가 (이월)
     
 - Closed

@@ -15,12 +15,11 @@ subtitle: Milestone 9 (2021.01.18 ~ 2021.04.30)
 ### B. 현황
 
 - 2021.01.18 ~ 2021.04.30
-  - Issue 8 Open, 4 Closed
+  - Issue 7 Open, 5 Closed
 
 ### C. 이슈
 
 - Open
-  - #203 : Costume Modular Parts 에 StaticMesh Attach 옵션 추가
   - #202 : 모듈러 캐릭터의 Physics 지원을 위한 MeshMerge 기능 추가
   - #201 : Costume DB 를 사용한 파츠/스킨 교환 시스템 추가
   - #200 : Content Editor, GameDB Key 리네임 시 자동 마이그레이션 기능 추가
@@ -30,6 +29,7 @@ subtitle: Milestone 9 (2021.01.18 ~ 2021.04.30)
   - #157 : AT4WorldActor Pooling 추가 (이월)
     
 - Closed
+  - #203 : Costume Modular Parts 에 StaticMesh Attach 옵션 추가 / 2021.02.14
   - #199 : 일반 게임 프로젝트의 VR 동작 모드 추가 / 2021.02.07
   - #198 : ActionPack 의 최대 및 기준 플레이 시간 설정 분리 / 2021.02.04
   - #197 : VR 게임 모드 옵션 추가 / 2021.02.02

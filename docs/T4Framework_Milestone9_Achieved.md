@@ -15,11 +15,12 @@ subtitle: Milestone 9 (2021.01.18 ~ 2021.04.30)
 ### B. 현황
 
 - 2021.01.18 ~ 2021.04.30
-  - Issue 7 Open, 5 Closed
+  - Issue 8 Open, 5 Closed
 
 ### C. 이슈
 
 - Open
+  - #204 : C/S Inventory 및 Equipment 관리 기능 추가
   - #202 : 모듈러 캐릭터의 Physics 지원을 위한 MeshMerge 기능 추가
   - #201 : Costume DB 를 사용한 파츠/스킨 교환 시스템 추가
   - #200 : Content Editor, GameDB Key 리네임 시 자동 마이그레이션 기능 추가

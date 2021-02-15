@@ -39,7 +39,7 @@ subtitle: Milestone 9 (2021.01.18 ~ 2021.04.30)
 
 ### D. 결과
 
-- Showcase #50 (2021.02.07)
+- Showcase #5 (2021.02.07)
   - [VR Mode (HMD & MotionController)](https://youtu.be/evzdpNTg3-4){: target="_blank" } 
 - Development clip #100 (2021.01.30)
   - [VR Mode Launch (Step 2/2, Bow or Sword Equipment & Attack)](https://youtu.be/DRYJdIe8yBM){: target="_blank" } 

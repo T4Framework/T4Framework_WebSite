@@ -20,7 +20,7 @@ subtitle: Milestone 9 (2021.01.18 ~ 2021.04.30)
 ### C. 이슈
 
 - Open
-  - #205 : Character Modular 내 Groom 에셋(Hair) 지원 추가
+  - #205 : Character Modular 내 Groom 에셋(Hair Strands) 지원 추가
   - #204 : C/S Inventory 및 Equipment 관리 기능 추가
   - #202 : 모듈러 캐릭터의 Physics 지원을 위한 MeshMerge 기능 추가
   - #200 : Content Editor, GameDB Key 리네임 시 자동 마이그레이션 기능 추가

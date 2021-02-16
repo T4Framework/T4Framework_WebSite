@@ -15,7 +15,7 @@ subtitle: Milestone 9 (2021.01.18 ~ 2021.04.30)
 ### B. 현황
 
 - 2021.01.18 ~ 2021.04.30
-  - Issue 7 Open, 7 Closed
+  - Issue 8 Open, 7 Closed
 
 ### C. 이슈
 

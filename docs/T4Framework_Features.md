@@ -16,7 +16,7 @@ subtitle: The Most Powerful MMO Action RPG Framework for UE4
 
 ### 2. 엔티티 에디터 (Entity Editor)
 - 캐릭터 모델 정보 및 애니메이션 설정 툴입니다. [>> 자세히 알아보기](https://t4framework.com/T4Framework_Features_EntityEditor)
-<div class='embed-container'><iframe src='https://www.youtube.com/embed/G69jNG0gjgI' frameborder='0' allowfullscreen></iframe></div>
+<div class='embed-container'><iframe src='https://www.youtube.com/embed/KQWv8CD-HWY' frameborder='0' allowfullscreen></iframe></div>
 
 ### 3. 액션 에디터 (Action Editor)
 - 캐릭터 전투 및 각종 연출 효과 설정을 위한 액션 툴입니다. [>> 자세히 알아보기](https://t4framework.com/T4Framework_Features_ActionEditor)

@@ -15,12 +15,11 @@ subtitle: Milestone 9 (2021.01.18 ~ 2021.04.30)
 ### B. 현황
 
 - 2021.01.18 ~ 2021.04.30
-  - Issue 8 Open, 7 Closed
+  - Issue 7 Open, 8 Closed
 
 ### C. 이슈
 
 - Open
-  - #206 : 프레임 저하 시 에디터 뷰포트에서의 캐릭터 이동 롤백 문제
   - #204 : C/S Inventory 및 Equipment 관리 기능 추가
   - #202 : 모듈러 캐릭터의 Physics 지원을 위한 MeshMerge 기능 추가
   - #200 : Content Editor, GameDB Key 리네임 시 자동 마이그레이션 기능 추가
@@ -30,6 +29,7 @@ subtitle: Milestone 9 (2021.01.18 ~ 2021.04.30)
   - #157 : AT4WorldActor Pooling 추가 (이월)
     
 - Closed
+  - #206 : 프레임 저하 시 에디터 뷰포트에서의 캐릭터 떨림 문제 / 2021.02.17
   - #205 : Character Modular 내 Groom 에셋(Hair Strands) 지원 추가 / 2021.02.16
   - #201 : Costume DB 를 사용한 파츠/스킨 교환 시스템 추가 / 2021.02.15
   - #203 : Costume Modular Parts 에 StaticMesh Attach 옵션 추가 / 2021.02.14

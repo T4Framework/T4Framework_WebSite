@@ -15,11 +15,12 @@ subtitle: Milestone 9 (2021.01.18 ~ 2021.04.30)
 ### B. 현황
 
 - 2021.01.18 ~ 2021.04.30
-  - Issue 6 Open, 9 Closed
+  - Issue 7 Open, 9 Closed
 
 ### C. 이슈
 
 - Open
+  - #207 : NPC 콘텐츠 에셋에 대한 비동기 로딩 적용
   - #204 : C/S Inventory 및 Equipment 관리 기능 추가
   - #202 : 모듈러 캐릭터의 Physics 지원을 위한 MeshMerge 기능 추가
   - #182 : 캐릭터 로딩전 애니메이션 플레이 동작 처리 (이월)

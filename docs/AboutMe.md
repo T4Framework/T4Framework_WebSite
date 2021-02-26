@@ -23,8 +23,8 @@ use-site-title: false
 - Niceofer (Lead Programmer)
   - <img src="https://t4framework.com/img/Noh.png" width="100px" height="100px">
   - Architect, Programmer
-    - IMC Games (Granado Espada)
-    - NCSOFT (Lineage Eternal, Project TL)
+    - IMC Games ~ 2007 (Granado Espada)
+    - NCSOFT ~ 2019 (Lineage Eternal, Project TL)
 
 ### D. Contact
 

@@ -15,11 +15,12 @@ subtitle: Milestone 9 (2021.01.18 ~ 2021.04.30)
 ### B. 현황
 
 - 2021.01.18 ~ 2021.04.30
-  - Issue 7 Open, 10 Closed
+  - Issue 8 Open, 10 Closed
 
 ### C. 이슈
 
 - Open
+  - #208 : MetaHuman 샘플 프로젝트 만들기
   - #207 : NPC 콘텐츠 에셋에 대한 비동기 로딩 적용
   - #204 : C/S Inventory 및 Equipment 관리 기능 추가
   - #202 : 모듈러 캐릭터의 Physics 지원을 위한 MeshMerge 기능 추가

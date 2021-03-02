@@ -44,7 +44,7 @@ subtitle: Milestone 9 (2021.01.18 ~ 2021.04.30)
 ### D. 결과
 
 - Showcase #6 (2021.03.02)
-  - [MetaHuman Support](https://youtu.be/d5XgMSJacCU){: target="_blank" } 
+  - [MetaHuman Creator Support](https://youtu.be/d5XgMSJacCU){: target="_blank" } 
 - Development clip #101 (2021.02.16)
   - [MetaHuman Creator Support (Step1, Mesh Setup & Test)](https://youtu.be/KQWv8CD-HWY){: target="_blank" } 
 - Showcase #5 (2021.02.07)

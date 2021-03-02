@@ -15,12 +15,11 @@ subtitle: Milestone 9 (2021.01.18 ~ 2021.04.30)
 ### B. 현황
 
 - 2021.01.18 ~ 2021.04.30
-  - Issue 8 Open, 10 Closed
+  - Issue 7 Open, 11 Closed
 
 ### C. 이슈
 
 - Open
-  - #208 : MetaHuman 샘플 프로젝트 만들기
   - #207 : NPC 콘텐츠 에셋에 대한 비동기 로딩 적용
   - #204 : C/S Inventory 및 Equipment 관리 기능 추가
   - #202 : 모듈러 캐릭터의 Physics 지원을 위한 MeshMerge 기능 추가
@@ -30,6 +29,7 @@ subtitle: Milestone 9 (2021.01.18 ~ 2021.04.30)
   - #157 : AT4WorldActor Pooling 추가 (이월)
     
 - Closed
+  - #209 : MetaHuman 샘플 프로젝트 만들기 / 2021.03.02
   - #208 : C/S 캐릭터 HP 연동 및 3D Bar 출력 처리 / 2021.02.28
   - #200 : Content Editor, GameDB Key 리네임 시 연관키 일괄 변경 / 2021.02.18
   - #206 : 프레임 저하 시 에디터 뷰포트에서의 캐릭터 떨림 문제 / 2021.02.17

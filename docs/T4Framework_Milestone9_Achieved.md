@@ -20,12 +20,12 @@ subtitle: Milestone 9 (2021.01.18 ~ 2021.04.30)
 ### C. 이슈
 
 - Open
+  - #210 : N개의 MeshComponent로 구현된 Modular Prop 기능 구현
   - #207 : NPC 콘텐츠 에셋에 대한 비동기 로딩 적용
   - #204 : C/S Inventory 및 Equipment 관리 기능 추가
   - #202 : 모듈러 캐릭터의 Physics 지원을 위한 MeshMerge 기능 추가
   - #182 : 캐릭터 로딩전 애니메이션 플레이 동작 처리 (이월)
   - #165 : Movement Component, Collision Mesh 위에서의 이동 처리 (이월)
-  - #162 : PropEntity 의 Composite Component 기능 구현 (이월)
   - #157 : AT4WorldActor Pooling 추가 (이월)
     
 - Closed

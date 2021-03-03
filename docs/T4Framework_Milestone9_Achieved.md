@@ -15,11 +15,12 @@ subtitle: Milestone 9 (2021.01.18 ~ 2021.04.30)
 ### B. 현황
 
 - 2021.01.18 ~ 2021.04.30
-  - Issue 7 Open, 11 Closed
+  - Issue 8 Open, 11 Closed
 
 ### C. 이슈
 
 - Open
+  - #211 : TensorFlow 라이브러리 지원
   - #210 : N개의 MeshComponent로 구현된 Modular Prop 기능 구현
   - #207 : NPC 콘텐츠 에셋에 대한 비동기 로딩 적용
   - #204 : C/S Inventory 및 Equipment 관리 기능 추가

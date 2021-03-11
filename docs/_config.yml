@@ -1,10 +1,10 @@
 # --- General options --- #
 
 # Name of website
-title: T4Framework.com
+title:
 
 # Short description of your site
-description: T4Framework - The Most Powerful MMO Action RPG Framework for UE4
+description: T4Framework - The Most Powerful Metaverse Framework for UE4
 
 # --- Local development options ---
 # If your website is hosted locally rather than on GitHub, then you need to uncomment the next two parameters to set the url and baseurl

@@ -21,18 +21,6 @@ description: T4Framework - The Most Powerful MMO Action RPG Framework for UE4
 # List of links in the navigation bar
 navbar-links:
   Home: "index"
-  Showcase: "T4Framework_Showcase"
-  Features:
-    - Summary: "T4Framework_Features"
-    - Entity: "T4Framework_Features_EntityEditor"
-    - Action: "T4Framework_Features_ActionEditor"
-    - World: "T4Framework_Features_WorldExplorer"
-    - Content: "T4Framework_Features_ContentEditor"
-    - Framework: "T4Framework_Features_Framework"
-  Tutorials: "T4Framework_Tutorials"
-  Milestones: "T4Framework_Milestones"
-  Download: "T4Framework_Download"
-  About Me: "AboutMe"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
@@ -77,8 +65,8 @@ author:
 social-network-links:
 #  rss: true
   email: "niceofer@hotmail.com"
-  facebook: tech4labs
-  github: tech4labs
+#  facebook: tech4labs
+#  github: tech4labs
 #  twitter: tech4labs
 #  reddit: yourname
 #  linkedin: tech4labs
@@ -86,7 +74,7 @@ social-network-links:
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
 #  instagram: deanat78
-  youtube: channel/UCoVNwMxu9CUzc92zGYN4l6A/
+#  youtube: channel/UCoVNwMxu9CUzc92zGYN4l6A/
 #  spotify: yourname
 #  telephone: +14159998888
 #  steam: deanat78

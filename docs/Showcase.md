@@ -85,7 +85,8 @@ subtitle: The Most Powerful Metaverse Framework for Unreal Engine
 
 <br />
 <center><img src="https://t4framework.com/img/Epic_MegaGrants_Recipient_logo.png"><br />
-    2020 : Awarded "Epic MegaGrant" from Epic Games Inc<br />
+    2020 : Awarded "Epic MegaGrant" from Epic Games Inc
+    <br />
     <a href="https://www.unrealengine.com/en-US/megagrants" target="_blank">unrealengine.com/megagrants</a>
 </center>
 

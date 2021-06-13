@@ -24,7 +24,7 @@ subtitle: The Most Powerful Metaverse Framework for Unreal Engine
 
 <center>
     언리얼 엔진을 활용해 "<b>3D 콘텐츠를 쉽고 빠르게 제작할 수 있는 개발 환경 제공</b>" 을 목표로<br />
-    <b>#Game #Entertainment #VirtualAvatar #MMO #Game</b> 을 위한 최적의 솔루션을 제공합니다.
+    <b>#Entertainment #VirtualAvatar #MMO #Game</b> 을 위한 최적의 솔루션을 제공합니다.
 </center>
 
 <hr />
@@ -88,7 +88,6 @@ subtitle: The Most Powerful Metaverse Framework for Unreal Engine
 </center>
 
 <hr />
-
 <br />
 <center><img src="https://t4framework.com/img/Epic_MegaGrants_Recipient_logo.png">
     <br /><br />

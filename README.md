@@ -7,8 +7,6 @@
   - Supported Engine Versions
     - 4.25 (Release Version : 4.25.3)
   - Windows, Android (Oculus Quest)
-- **참고영상**
-  - https://www.youtube.com/channel/UCoVNwMxu9CUzc92zGYN4l6A
 - **문의**
-  - SoonBo Noh : <niceofer@hotmail.com>
-  - <https://tech4labs.com>
+  - SoonBo Noh : <info@virtualflowinc.com>
+  - <https://t4framework.com>
